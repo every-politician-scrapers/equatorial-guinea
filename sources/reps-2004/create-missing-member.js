@@ -26,12 +26,11 @@ String.prototype.toTitleCase = function() {
   return str;
 }
 
-module.exports = (label,party,gender) => {
+module.exports = (label,gender) => {
   mem = {
     value: meta.position,
     qualifiers: {
       P2937: meta.term.id,
-      P4100: party,
     },
     references: {
       P854: meta.source,
@@ -50,7 +49,7 @@ module.exports = (label,party,gender) => {
 
   return {
     type: 'item',
-    labels: { en: label.toTitleCase(), fr: label.toTitleCase() },
+    labels: { en: label.toTitleCase(), es: label.toTitleCase() },
     descriptions: { en: 'Equatoguinean politician' },
     claims: claims,
   }
