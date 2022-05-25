@@ -1,13 +1,14 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q19058522,President of Equatorial Guinea,Q983,Q983,,,,,,,
 Q7925046,Vice President of Equatorial Guinea,Q983,Q983,,,1968-10-12,,,,Vice President of Equatorial Guinea
-Q2351213,Prime Minister of Equatorial Guinea,Q983,Q983,,,1982-08-15,,,,List of prime ministers of Equatorial Guinea
+Q2351213,Prime Minister of Equatorial Guinea,Q983,Q983,,,1982-08-15,,Q112128315,,List of prime ministers of Equatorial Guinea
 Q111021197,Minister of Agriculture,Q983,Q983,,,,,,,
 Q111021198,Minister of Commerce,Q983,Q983,,,,,,,
 Q111021200,Minister of Finance,Q983,Q983,,,,,,,
 Q111021196,Minister of Foreign Affairs,Q983,Q983,,,,,,,
 Q111020058,Health Minister of Equatorial Guinea,Q983,Q983,,,,,,,
 Q111021201,Minister of Industry & Mines,Q983,Q983,,,,,,,
+Q112128225,Minister of Information,Q983,Q983,,,,,,,
 Q111021202,Minister of Interior,Q983,Q983,,,,,,,
 Q111021203,Minister of Justice,Q983,Q983,,,,,,,
 Q111021204,Minister of Labor,Q983,Q983,,,,,,,
