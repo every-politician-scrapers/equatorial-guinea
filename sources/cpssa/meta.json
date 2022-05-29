@@ -1,0 +1,12 @@
+{
+    "jurisdiction": {
+        "name": "Equatorial Guinea",
+        "id": "Q983"
+    },
+    "cabinet": {
+      "parent": "Q5384256"
+    },
+    "source": {
+        "id":   "Q96743901"
+    }
+}

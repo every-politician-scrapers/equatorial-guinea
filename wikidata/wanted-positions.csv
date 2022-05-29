@@ -1,18 +1,52 @@
 position,title
 Q19058522,President
-Q7925046,Vice President
+Q7925046,Vice-President
 Q2351213,Prime Minister
+Q112162701,Vice-Prime Minister
+Q112162665,Minister of Administrative Coordination
 Q111021197,Minister of Agriculture
-Q111021198,Minister of Commerce
+Q112162667,Minister of Budget
+Q112162668,Minister of Civil Aviation
+Q112162669,Minister of Civil Cabinet
+Q112162670,Minister of Civil Service and Administrative Reform
+Q112162671,Minister of Control and Prevention of HIV - AIDS and Sexually Transmitted Diseases
+Q112162672,Minister of Culture
+Q111021195,Minister of Defence
+Q111021198,Minister of Economy
+Q111021199,Minister of Education
+Q112162673,Minister of External Security
 Q111021200,Minister of Finance
+Q112162674,Minister of Fishing
 Q111021196,Minister of Foreign Affairs
+Q112162675,Minister of Forests
 Q111020058,Minister of Health
-Q111021201,Minister of Industry and Mines
+Q111021201,Minister of Industry
 Q112128225,Minister of Information
+Q112162676,Minister of Infrastructure and Forests
 Q111021202,Minister of Interior
 Q111021203,Minister of Justice
-Q111021204,Minister of Labor
-Q111021195,Minister of National Defence
-Q111021199,Minister of National Education
+Q111021204,Minister of Labour
+Q112162677,Minister of Mines
+Q112162678,Minister of Missions
+Q112162679,Minister of National Security
+Q112162680,Minister of Parliament Relations
+Q112162681,Minister of Planning
+Q112162683,Minister of Political and Administrative Affairs
+Q112162684,Minister of Presidential Security
+Q112162685,Minister of Promotion of Small and Medium Businesses
+Q112162686,Minister of Public Administration and Administrative Reform
+Q112162687,Minister of Public Service and Administrative Planning
 Q111021205,Minister of Public Works
+Q112162689,Minister of Regional Integration
+Q112162690,Minister of Relations with Parliament and Legal Affairs of the Government
+Q112162691,Minister of Social Affairs
+Q112162692,Minister of Telecommunications and New Technologies
+Q112162693,Minister of Tourism
+Q112162694,Minister of Town Planning
+Q112162696,Minister of Trade
+Q112162697,Minister of Transport
+Q112162698,Minister of Urban Planning and Infrastructure
 Q28555503,Minister of Women
+Q112162699,Minister of Youth and Sports
+Q112162663,Minister at the Presidency
+Q112162700,Minister without Portfolio
