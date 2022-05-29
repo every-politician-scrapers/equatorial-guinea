@@ -3,11 +3,10 @@ module.exports = (label) => {
     type: 'item',
     labels: {
       en: label,
-      fr: label,
+      es: label,
     },
     descriptions: {
-      en: 'Central African politician',
-      fr: 'personnalité politique centrafricain',
+      en: 'Equatoguinean politician',
     },
     claims: {
       P31: { value: 'Q5' }, // human

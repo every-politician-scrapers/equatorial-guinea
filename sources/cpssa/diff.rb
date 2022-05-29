@@ -2,10 +2,11 @@
 # frozen_string_literal: true
 
 require 'every_politician_scraper/comparison'
+require 'pry'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
-  def external_csv_options
-    { converters: [->(v) { v.to_s.sub('2019-12-31', '2020-01-17') }] }
+  def external
+    super.delete_if { |row| row[:start] == row[:end] }
   end
 end
 
