@@ -1,21 +1,31 @@
 @@,name,gender,position,item
-->,VICENTE NSUE NSUE MANGUE,NULL->male,"Secretario de Estado, Encargado de Enseñanza Superior y Secundaria",Q112184839
-->,TOMÁS ESONO NSUE EYA,NULL->male,"Secretario de Estado, Encargado de Obras Públicas",Q112184844
-->,SALVADOR NDONG NSUE,NULL->male,Secretario de Estado a la Presidencia de la República en el Departamento de Misiones,Q112184866
-->,RIMMÉ BOSIO RIOCALO,NULL->female,"Secretaria de Estado de Justicia, Culto e Instituciones Penitenciarias",Q112184870
-->,PATRICIO BACALE MBA MEDJA,NULL->male,"Secretario de Estado, Encargado de Deportes",Q112184922
-->,PASCUAL BAKALE MBIANG,NULL->male,"Secretario de Estado, Encargado de Sanidad Animal y Control de Calidad de Alimentos",Q112184926
-->,MILAGROSA OBONO ANGUE,NULL->female,"Secretaria de Estado, Encargada de la Tesorería",Q112184929
-->,MARIA ÁNGELES MIAGA BIBANG,NULL->female,"Secretaria de Estado, Encargada de Asuntos Económicos y Patrimonio de Guinea Ecuatorilal en el Exterior",Q112184941
-->,MARIA DEL PILAR MEDJA NVONO NSA,NULL->female,"Secretaria de Estado, Encargada de Asuntos Sociales e Igualdad de Género",Q112184943
-->,JUAN ABAHA ELO,NULL->male,"Secretario de Estado a la Presidencia de la República, Encargado de Auditorías",Q112184951
-->,JOSE-MARIA ONDO OYONO.,NULL->male,"Secretario de Estado, Encargado de Plantas de Producción de Energía y Lineas de Transmisión",Q112175194
-->,FIDEL NSUE MICHA,NULL->male,Ministro-Delegado del Interior y Corporaciones Locales,Q112162984
-->,EDUARDO MINANG ENSEME,NULL->male,Secretario de Estado de Seguridad Nacional,Q112184953
-->,CATALINA MARTINEZ ASUMU,NULL->female,"Secretaria de Estado, Encargada de Turismo",Q112184954
-->,CARMELO OVONO OBIANG,NULL->male,"Secretario de Estado a la Presidencia de la República, Encargado de Seguridad Exterior",Q112184955
-->,AVELINO MOCACHE MENGA,NULL->male,Secretario de Estado de Pesca y Recursos Hidrícos,Q112184956
-->,ANTONIO NGUA MBA EYANG,NULL->male,"Secretario de Estado, Encargado de Presupuestos y Control Financiero",Q112184959
-->,ALFREDO ABESO NVONO ONGUENE,NULL->male,Secretario de Estado de Defensa Nacional,Q112184961
-->,ALFONSO OSA NGUEMA MOKUY,NULL->male,Secretario de Estado de Aviación Civil,Q112184962
+->,ARMANDO DOUGAN CHAMPION,NULL->male,"Vice-Ministro de la Presidencia de la República, Encargado de Ceremonias y Traducciones",Q112175139
+---,Santiago Nsobeya Barreiros,,Deputy Minister of Public Administration,Q112175242
+---,Santiago Mba Eneme Nsuga,,Deputy Minister of Mines,Q112175241
+---,Santiago Francisco Engonga Esono,,Deputy Minister of Agriculture,Q112175240
+---,Prudencio Botey Sobole,male,Deputy Minister of Culture and Tourism,Q61767161
+---,Pedro Nguema Ndong,,Deputy Minister of Foreign Affairs,Q112175231
+---,Pascual Ondo Nse Oyana,,Deputy Minister of Public Works,Q112175228
+---,Manuel Cristobal Morgades Ichaka,,"Deputy Minister of Work, Employment Promotion and Social Security",Q112175206
+---,Honorato Evita Oma,,Deputy Minister of Transport,Q112175188
+---,Gerónimo-Carlos Osa Osa Nzang,,Deputy Minister of Fisheries,Q112175182
+---,Dámaso Mitoha Ondo'O Ayecaba,,Deputy Minister of Health,Q112175166
+---,Cándido Ncogo Engono Nchama,,Deputy Minister of National Defence,Q112175162
 ---,Clemente Engonga Nguema Andeme,,Minister of National Education,Q112162972
+---,Cesar Aguado Hinestrosa Gomez,,Deputy Minister of Industry and Energy,Q112175154
+---,Atalia Modesta Baha Ondo,,Deputy Minister of Information,Q112175140
++++,SILVESTRE ABAGA EYANG,male,Vice-Ministro Encargado de Bosques y Medio Ambiente,
++++,SANTIAGO NSOBEYA BARREIROS,male,Vice-Ministro de la Función Pública y Reforma Administrativa,
++++,SANTIAGO MBA ENEME NSUGA,male,Vice-Ministro de Minas e Hidrocarburos,
++++,PRUDENCIO BOTEY SOBOLE,male,"Vice-Ministro de Cultura, Turismo y Promoción Artesanal",
++++,PEDRO NGUEMA NDONG,male,Vice-Ministro de Asuntos Exteriores y Cooperación,
++++,PASCUAL ONDO NSE OYANA,male,"Vice-Ministro de Obras Públicas, Viviendas y Urbanismo",
++++,MITOHA ONDO'O AYEKABA,male,Vice-Ministro de Sanidad y Bienestar Social,
++++,MANUEL CRISTÓBAL MORGADES ICHACA,male,"Vice-Ministro de Trabajo, Fomento del Empleo y Seguridad Social",
++++,HONORATO EVITA OMA,male,"Vice-Ministro de Transportes, Correos y Telecomunicaciones, Exmo",
++++,HERMES ELA MIFUMU,male,"Vice-Ministro de Hacienda, Economía y Planificación, Encargado de Impuestos y Contribuciones",
++++,GERÓNIMO-CARLOS OSA OSA NZANG,male,Vice-Ministro de Pesca y Recursos Hídricos,
++++,DOMING0 MBA ESONO,male,Vice-Ministro de Comercio y Promoción de Pequeños y Medianas Empresas,
++++,CÁNDIDO NCOGO ENGONO NCHAMA,male,Vice-Ministro de Defensa Nacional,
++++,CESAR AGUADO HINESTROSA GOMEZ,male,Vice-Ministro de Industria y Energía,
++++,ATALIA MODESTA BAHA ONDO,female,"Vice-Ministra de Información, Prensa y Radio",
