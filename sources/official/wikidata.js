@@ -20,6 +20,7 @@ module.exports = function () {
           # Who held those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?ps .
           ?ps ps:P39 ?positionItem .
+          MINUS { ?ps pq:P582 [] }
           FILTER NOT EXISTS { ?ps wikibase:rank wikibase:DeprecatedRank }
 
           OPTIONAL { ?item p:P570 [ a wikibase:BestRank ; psv:P570 ?dod ] }
