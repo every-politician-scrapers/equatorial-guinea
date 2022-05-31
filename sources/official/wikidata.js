@@ -19,7 +19,6 @@ module.exports = function () {
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           OPTIONAL { ?held pq:P582 ?end }
 
-          FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           FILTER (?start < NOW())
           FILTER (!BOUND(?end) || ?end > NOW())
           FILTER NOT EXISTS { ?item wdt:P570 [] }
@@ -35,10 +34,9 @@ module.exports = function () {
           OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "${meta.source.lang.code}") }
           BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
 
-          OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "${meta.source.lang.code}") }
-          OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "${meta.source.lang.code}") }
-          BIND(COALESCE(?statedName, ?nativeLabel, ?positionLabel) AS ?position)
+          OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "en") }
+          BIND(COALESCE(?statedName, ?positionLabel) AS ?position)
         }
         # ${new Date().toISOString()}
-        ORDER BY STR(?name) STR(?position) ?began ?wdid ?sourceDate`
+        ORDER BY ?sourceDate STR(?name) STR(?position) ?began ?wdid`
 }
