@@ -4,7 +4,7 @@
 require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
-  ACCEPT = %w[Minister Ministra Ministro]
+  ACCEPT = %w[Minister Ministra Ministro Ministro-Delegado Ministra-Delegada]
 
   def columns
     super + %i[item]

@@ -1,21 +1,8 @@
 @@,name,gender,position,item
-->,VIRGILIO SERICHE RILOHA,NULL->male,"Ministro de Información, Prensa y Radio",Q112175249
-->,VALENTÍN ELA MAYE,NULL->male,"Ministro de Hacienda, Economía y Planificación",Q112175246
-->,SALVADOR ONDO NCUMU,NULL->male,"Ministro de Justicia, Culto e Instituciones Penitenciarias",Q112163016
-->,RUFINO OVONO ONDO,NULL->male,"Ministro de Transportes, Correos y Telecomunicaciones",Q112175236
-->,RUFINO NDONG ESONO NCHAMA,NULL->male,"Ministro de Cultura, Turismo y Promoción Artesanal",Q112163013
-->,NORBORTO-BARTOLOMÉ MENSUY MAÑE ANDEME,NULL->male,Ministro de Aviación Civil,Q112175227
-->,NICOLÁS OBAMA NCHAMA,NULL->male,"Ministro de Estado, Encargado de Seguridad Nacional",Q112163007
-->,NICOLÁS HOUTONJI ACAPO,NULL->male,"Ministro de Agricultura, Ganadería, Bosques y Medio Ambiente",Q112163009
-->,MIGUEL EKUA ONDO,NULL->male,Ministro de Industria y Energía,Q112163002
-->,JUAN-ANTONIO BIBANG NCHUCHUMA,NULL->male,"Ministro a la Presidencia de la República, Encargado de Seguridad Exterior",Q112133252
-->,FAUSTINO NDONG ESONO EYANG,NULL->male,Ministro de Estado del Interior y Corporaciones Locales,Q112162982
-->,CLEMENTE FERREIRO VILLARINO,NULL->male,"Ministro de Obras Públicas, Viviendas y Urbanismo",Q112175156
-->,BALTASAR ESONO EWORO NFONO,NULL->male,Ministro Secretario General de la Presidencia del Gobierno,Q112175141
-->,BALTASAR ENGONGA EDJO,NULL->male,"Ministro de Estado a la Presidencia del Gobierno, Encargado de la Integración Regional",Q112162967
-->,ALEJANDRO EVUNA OWONO ASANGONO,NULL->male,"Ministro de Estado a la Presidencia de la República, Encargado de Misiones",Q112162958
+->,JUAN OLO MBA NSENG,NULL->male,"Ministro-Delegado de Justicia, Culto e Instituciones Penitenciarias",Q112175200
+->,ALBERTO DORIA LAJAY,NULL->male,Ministro-Delegado de Comercio y Promoción de Pequeñas y Medianas Empresas,Q112175131
 ---,Manuela Roca Botey,,Minister Delegate of Education,Q112175210
----,Juan Olo Mba Nseng,,Minister Delegate of Justice,Q112175200
----,Heriberto Meko Mbengono,male,Minister Delegate of National Security,Q112133249
 ---,Clemente Engonga Nguema Andeme,,Minister of National Education,Q112162972
----,Alberto Doria Lajay,,Minister Delegate of Trade,Q112175131
++++,MIGUEL MBA NSANG MIKUE,male,"Ministro-Delegado de Agricultura, Ganadería, Bosques y Medio Ambiente",
++++,MANUELA ROCA BOTEY,female,"Ministra-Delegada de Educación, Enseñanza Universitaria y Deportes",
++++,FIDEL NSUE MICHA,male,Ministro-Delegado del Interior y Corporaciones Locales,
