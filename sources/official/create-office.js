@@ -5,10 +5,9 @@ let meta = JSON.parse(rawmeta);
 module.exports = (enlabel) => {
   claims = {
     P31:   { value: 'Q294414' }, // instance of: public office
-    P279:  { value: 'Q83307'  }, // subclas of: minister
     P17:   { value: meta.country ? meta.country.id : meta.jurisdiction.id },
     P1001: { value: meta.jurisdiction.id },
-    P361:  { value: meta.cabinet.parent }
+    P361:  { value: 'Q30261839' }
   }
 
   return {

@@ -12,9 +12,10 @@ module.exports = function () {
     WITH {
       SELECT DISTINCT ?item ?positionItem ?startNode ?endNode ?ps
       WHERE {
-          # Positions currently in the cabinet
+          # Positions in government
+          VALUES ?gov { wd:Q5384256 wd:Q30261839 }
           ?positionItem p:P361 ?cs .
-          ?cs ps:P361 wd:${meta.cabinet.parent} .
+          ?cs ps:P361 ?gov .
           FILTER NOT EXISTS { ?cs pq:P582 [] }
 
           # Who held those positions

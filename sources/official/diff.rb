@@ -4,18 +4,8 @@
 require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
-  ACCEPT = %w[Minister Ministra Ministro Ministro-Delegado Ministra-Delegada Secretary Secretario Secretaria Deputy Vice-Ministro Vice-Ministra]
-
   def columns
     super + %i[item]
-  end
-
-  def wikidata
-    @wikidata ||= super.delete_if { |row| !ACCEPT.include? row[:position].split(' ').first }
-  end
-
-  def external
-    @external ||= super.delete_if { |row| (row[:position] =~ /^Secretari[ao] General/) || !ACCEPT.include?(row[:position].split(' ').first) }
   end
 end
 
