@@ -1,8 +1,7 @@
-@@,name,gender,position,item
-->,JUAN OLO MBA NSENG,NULL->male,"Ministro-Delegado de Justicia, Culto e Instituciones Penitenciarias",Q112175200
-->,ALBERTO DORIA LAJAY,NULL->male,Ministro-Delegado de Comercio y Promoción de Pequeñas y Medianas Empresas,Q112175131
----,Manuela Roca Botey,,Minister Delegate of Education,Q112175210
----,Clemente Engonga Nguema Andeme,,Minister of National Education,Q112162972
-+++,MIGUEL MBA NSANG MIKUE,male,"Ministro-Delegado de Agricultura, Ganadería, Bosques y Medio Ambiente",
-+++,MANUELA ROCA BOTEY,female,"Ministra-Delegada de Educación, Enseñanza Universitaria y Deportes",
-+++,FIDEL NSUE MICHA,male,Ministro-Delegado del Interior y Corporaciones Locales,
+@@,name,position,item
+---,Miguel Mba Nsang Mikue,Minister Delegate of Agriculture,Q112133727
+---,Fidel Nsue Micha,Minister Delegate of Interior,Q112162984
+---,César Augusto Mba Abogo,Minister of Finance,Q112162976
+---,Clemente Engonga Nguema Andeme,Minister of National Education,Q112162972
++++,MIGUEL MBA NSANG MIKUE,"Ministro-Delegado de Agricultura, Ganadería, Bosques y Medio Ambiente",
++++,FIDEL NSUE MICHA,Ministro-Delegado del Interior y Corporaciones Locales,
