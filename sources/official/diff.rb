@@ -6,6 +6,10 @@ require 'every_politician_scraper/comparison'
 class Comparison < EveryPoliticianScraper::NulllessComparison
   ACCEPT = %w[Minister Ministra Ministro]
 
+  def columns
+    super + %i[item]
+  end
+
   def wikidata
     @wikidata ||= super.delete_if { |row| !ACCEPT.include? row[:position].split(' ').first }
   end

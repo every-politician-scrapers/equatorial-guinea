@@ -3,10 +3,10 @@ let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = function () {
-  return `SELECT DISTINCT (STRAFTER(STR(?item), STR(wd:)) AS ?wdid)
-               ?name ?wdLabel ?source ?sourceDate
-               (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position ?start
-               (STRAFTER(STR(?held), '/statement/') AS ?psid)
+  return `SELECT DISTINCT ?item ?name ?gender
+            ?positionItem ?position ?start
+            ?source ?sourceDate
+            (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
           # Positions currently in the cabinet
           ?positionItem p:P361 ?ps .
@@ -18,6 +18,7 @@ module.exports = function () {
           ?held ps:P39 ?positionItem ; pq:P580 ?start .
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           OPTIONAL { ?held pq:P582 ?end }
+          OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
 
           FILTER (?start < NOW())
           FILTER (!BOUND(?end) || ?end > NOW())

@@ -14,6 +14,13 @@ class MemberList
       parts.first.tidy.gsub(/^\d+[\.\- ]*/, '').gsub(/\s*[,.]$/, '')
     end
 
+    field :gender do
+      return 'female' if noko.text.include?('Señora') || noko.text.include?('Dõna')
+      return 'male' if noko.text.include?('Señor')
+
+      return
+    end
+
     private
 
     def parts
