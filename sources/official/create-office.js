@@ -14,6 +14,7 @@ module.exports = (enlabel) => {
     type: 'item',
     labels: {
       en: enlabel,
+      es: enlabel,
     },
     descriptions: {
       en: `government position in ${meta.jurisdiction.name}`,

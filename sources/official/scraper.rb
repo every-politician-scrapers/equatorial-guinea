@@ -7,11 +7,11 @@ require 'pry'
 class MemberList
   class Member
     def name
-      parts.last.tidy.gsub(/\s*\.$/, '').gsub(/^(Don|Doña)[,.]?\s*/, '')
+      parts.last.tidy.gsub(/\s*\.$/, '').gsub(/^(Dona|Don|Doña)[,.]?\s*/, '')
     end
 
     def position
-      parts.first.tidy.gsub(/^\d+[\.\- ]*/, '').gsub(/\s*[,.]$/, '')
+      parts.first.tidy.gsub(/^\d+[,\.\- ]*/, '').gsub(/\s*[,.]$/, '')
     end
 
     field :gender do
