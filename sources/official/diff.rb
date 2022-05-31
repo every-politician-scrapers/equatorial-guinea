@@ -15,7 +15,7 @@ class Comparison < EveryPoliticianScraper::NulllessComparison
   end
 
   def external
-    @external ||= super.delete_if { |row| (row[:position] =~ /Secretari[ao] General/) || !ACCEPT.include?(row[:position].split(' ').first) }
+    @external ||= super.delete_if { |row| (row[:position] =~ /^Secretari[ao] General/) || !ACCEPT.include?(row[:position].split(' ').first) }
   end
 end
 
