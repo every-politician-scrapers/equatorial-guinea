@@ -1,2 +1,21 @@
-@@,name,position,item
----,Clemente Engonga Nguema Andeme,Minister of National Education,Q112162972
+@@,name,gender,position,item
+->,VICENTE NSUE NSUE MANGUE,NULL->male,"Secretario de Estado, Encargado de Enseñanza Superior y Secundaria",Q112184839
+->,TOMÁS ESONO NSUE EYA,NULL->male,"Secretario de Estado, Encargado de Obras Públicas",Q112184844
+->,SALVADOR NDONG NSUE,NULL->male,Secretario de Estado a la Presidencia de la República en el Departamento de Misiones,Q112184866
+->,RIMMÉ BOSIO RIOCALO,NULL->female,"Secretaria de Estado de Justicia, Culto e Instituciones Penitenciarias",Q112184870
+->,PATRICIO BACALE MBA MEDJA,NULL->male,"Secretario de Estado, Encargado de Deportes",Q112184922
+->,PASCUAL BAKALE MBIANG,NULL->male,"Secretario de Estado, Encargado de Sanidad Animal y Control de Calidad de Alimentos",Q112184926
+->,MILAGROSA OBONO ANGUE,NULL->female,"Secretaria de Estado, Encargada de la Tesorería",Q112184929
+->,MARIA ÁNGELES MIAGA BIBANG,NULL->female,"Secretaria de Estado, Encargada de Asuntos Económicos y Patrimonio de Guinea Ecuatorilal en el Exterior",Q112184941
+->,MARIA DEL PILAR MEDJA NVONO NSA,NULL->female,"Secretaria de Estado, Encargada de Asuntos Sociales e Igualdad de Género",Q112184943
+->,JUAN ABAHA ELO,NULL->male,"Secretario de Estado a la Presidencia de la República, Encargado de Auditorías",Q112184951
+->,JOSE-MARIA ONDO OYONO.,NULL->male,"Secretario de Estado, Encargado de Plantas de Producción de Energía y Lineas de Transmisión",Q112175194
+->,FIDEL NSUE MICHA,NULL->male,Ministro-Delegado del Interior y Corporaciones Locales,Q112162984
+->,EDUARDO MINANG ENSEME,NULL->male,Secretario de Estado de Seguridad Nacional,Q112184953
+->,CATALINA MARTINEZ ASUMU,NULL->female,"Secretaria de Estado, Encargada de Turismo",Q112184954
+->,CARMELO OVONO OBIANG,NULL->male,"Secretario de Estado a la Presidencia de la República, Encargado de Seguridad Exterior",Q112184955
+->,AVELINO MOCACHE MENGA,NULL->male,Secretario de Estado de Pesca y Recursos Hidrícos,Q112184956
+->,ANTONIO NGUA MBA EYANG,NULL->male,"Secretario de Estado, Encargado de Presupuestos y Control Financiero",Q112184959
+->,ALFREDO ABESO NVONO ONGUENE,NULL->male,Secretario de Estado de Defensa Nacional,Q112184961
+->,ALFONSO OSA NGUEMA MOKUY,NULL->male,Secretario de Estado de Aviación Civil,Q112184962
+---,Clemente Engonga Nguema Andeme,,Minister of National Education,Q112162972

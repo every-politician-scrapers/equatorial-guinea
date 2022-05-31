@@ -6,7 +6,7 @@ module.exports = function () {
   let fromd = `"${meta.cabinet.start}T00:00:00Z"^^xsd:dateTime`
   let until = meta.cabinet.end ? `"${meta.cabinet.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
-  return `SELECT DISTINCT ?item ?name ?positionItem ?position
+  return `SELECT DISTINCT ?item ?name ?gender ?positionItem ?position
            ?startDate ?endDate ?source ?sourceDate
            (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
@@ -82,6 +82,8 @@ module.exports = function () {
 
       OPTIONAL { ?positionItem rdfs:label ?positionEN FILTER(LANG(?positionEN) = "en") }
       BIND(COALESCE(?statedName, ?positionEN) AS ?position)
+
+      OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
     }
     # ${new Date().toISOString()}
     ORDER BY ?sourceDate ?item ?psid`
