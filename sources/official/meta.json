@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+        "name": "Equatorial Guinea",
+        "id": "Q983"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+        "id": "Q112127135",
+        "start": "2020-08-18",
+        "parent": "Q5384256"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.guineaecuatorialpress.com/noticias/el_gobierno_de_la_republica_de_guinea_ecuatorial",
+        "title": "EL GOBIERNO DE LA REPÚBLICA DE GUINEA ECUATORIAL",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "es",
+            "wikidata": "Q1321"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/equatorial-guinea"
 }

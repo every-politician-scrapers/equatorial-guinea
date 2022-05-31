@@ -7,17 +7,27 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      parts.last.tidy.gsub(/\s*\.$/, '').gsub(/^(Don|Doña)[,.]?\s*/, '')
     end
 
     def position
-      noko.css('.position').text.tidy
+      parts.first.tidy.gsub(/^\d+[\.\- ]*/, '').gsub(/\s*[,.]$/, '')
+    end
+
+    private
+
+    def parts
+      noko.text.tidy.gsub(/Iltma\.$/, '').split /(Excmo|Excma|Iltmo|Iltma|Señora|Señor)/
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.article_text p').select { |node| node.text.tidy =~ /^\d/ }
+    end
+
+    def member_items
+      super.reject { |row| row.name[/^\d/] }
     end
   end
 end
