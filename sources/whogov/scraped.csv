@@ -1,0 +1,634 @@
+id,name,positionItem,position,start,end,dob,dod,gender
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2000,2000,1942,,male
+Q251902,Serafin Seriche Dougan,,Prime Min. & Head Of Govt,2000,2000,1946,,male
+Q108426370,Miguel Oyono Ndong Mifumu,,First Dep. Prime Min.,2000,2000,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Dep. Prime Min.,2000,2000,,,male
+Q24761111,Francisco Pascual Eyegue Obama Asue,,Sec. Gen. Of The Government,2000,2000,1949,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Min. Political Adviser To The Govt,2000,2000,,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State In Charge Of Economy & Commerce,2000,2000,,,male
+Q112133229,Anatolio Ndong Mba,Q112174492,Min. Of State In Charge Of Planning & International Cooperation,2000,2000,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Min. Of State For The Interior & Local Corporations,2000,2000,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State For Missions,2000,2000,,,male
+Q112128529,Antonio Fernando Nve Ngu,,Min. Of State At The Presidency In Charge Of Relations With Assemblies & Legal Matters,2000,2000,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State In The Presidency In Charge Of Special Duties,2000,2000,,,male
+Q112128490,Marcelino Oyono Ntutumu,,Min. Of State For Transport & Communication,2000,2000,,,male
+Q112162973,Constantine Eko Nsue,,"Min. Of Agriculture, Fisheries & Animal Husbandry",2000,2000,,,male
+Q112162983,Fernando Mabale Mba,,Min. Of Civil Service & Administrative Reforms,2000,2000,,,male
+Q36908601,Augustin Nse Nfumu,,"Min. Of Culture, Tourism & Francophone Affairs",2000,2000,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of Economic Affairs & Finance,2000,2000,,,male
+Q112128487,Santiago Ngua Nfumu,,"Min. Of Education, Science & Francophone Affairs",2000,2000,,,male
+,Constantino Congue,,Min. Of Employment & Social Security,2000,2000,,,male
+Q17198388,Santiago Nsobeya Efuman Nchama,,Min. Of Foreign Affairs & International Cooperation,2000,2000,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Forestry & Environment,2000,2000,1968,,male
+Q112162993,Juan Antonio Ntutumu,,Min. Of Health & Social Welfare,2000,2000,,,male
+Q112133282,Vidal Djoni Becoba,,"Min. Of Industry, Commerce, Small & Medium Enterprises",2000,2000,,,male
+Q112128541,Lucas Nguema Esono,,"Min. Of Information, Tourism & Culture",2000,2000,,,male
+Q55104856,Ruben Maye Nsue,,Min. Of Justice & Religion,2000,2000,,,male
+,Ernesto Maria Cayetano Toherida,,Min. Of Labor & Social Promotion,2000,2000,,,male
+Q112128524,Cristobal Menana Ela,,Min. Of Mines & Energy,2000,2000,,,male
+Q112128529,Antonio Fernando Nve Ngu,,Min. Of Planning,2000,2000,,,male
+Q112133583,Florentino Nkogo Ndong,,"Min. Of Public Works, Housing & Urban Affairs",2000,2000,,,male
+Q112128475,Margarita Alene,Q112162691,Min. Of Social Affairs & Women's Development,2000,2000,,,female
+,Julio Ndong Ela Mangue,,Min. Of Territorial Admin. & Local Govt.,2000,2000,,,male
+Q57898,Ignacio Milam Tang,,Min. Of Youth & Sports,2000,2000,1940,,male
+Q112128527,Carlos Eyi Obama,Q112174437,"Min. Del. To Agriculture, Livestock & Rural Development",2000,2000,,,male
+Q1353126,Miguel Abia Biteo Boriko,,Min. Del. Of Economic Affairs & Finance,2000,2000,1961,2012,male
+Q100786539,Teresa Efua Asangono,,Min. Del. Of Foreign Affairs & Cooperation,2000,2000,,,female
+Q112175181,Melanio Ebendeng Nsomo,,Min. Del. Of National Defense,2000,2000,,,male
+Q24761111,Francisco Pascual Eyegue Obama Asue,,Min. Del. To The Presidency In Charge Of Youth & Sports,2000,2000,1949,,male
+Q103916291,Anacleto Olo Mibuy,Q112174402,"Vice Min. Of Culture, Tourism & Crafts Promotion",2000,2000,,,male
+Q112128536,Federico Edjoo Ovono,Q112174405,Vice Min. Of Education,2000,2000,,,male
+Q112128523,Salomon Nguema Owono,,Vice Min. Of Health,2000,2000,,,male
+Q112162986,Francisco Javier Ngomo Mbengono,,Vice Min. Of Justice & Religious Affairs,2000,2000,,,male
+Q112186226,Ceferino Eburi Matta,,"Vice Min. Of Public Works, Housing & Urban Affairs",2000,2000,,,male
+Q63731266,Antonio Mba Nguema,,Sec. Of State For National Security,2000,2000,1952,2019,male
+Q112128487,Santiago Ngua Nfumu,,"Sec. Of State For Press, Radio & Television",2000,2000,,,male
+Q58151,Pastor Micha Ondo Bile,,Ambassador To The Us,2000,2000,1952,,male
+Q58151,Pastor Micha Ondo Bile,Q112202472,"Permanent Representative To The Un, New York",2000,2000,1952,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2001,2001,1942,,male
+Q1149802,Candido Muatetema Rivas,,Prime Minister,2001,2001,1960,2014,male
+Q108426370,Miguel Oyono Ndong Mifumu,,First Dep. Prime Min.,2001,2001,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Dep. Prime Min.,2001,2001,,,male
+Q24761111,Francisco Pascual Eyegue Obama Asue,,Sec. Gen. Of The Govt.,2001,2001,1949,,male
+Q112162987,Gregorio Boho Camo,,"Min. Of State For Agriculture, Fisheries & Animal Husbandry",2001,2001,,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State In Charge Of Economy & Commerce,2001,2001,,,male
+Q112133229,Anatolio Ndong Mba,Q112174492,Min. Of State In Charge Of Planning & International Cooperation,2001,2001,,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State For Economy & Commerce,2001,2001,,,male
+Q112128529,Antonio Fernando Nve Ngu,,Min. Of State For Education & Science,2001,2001,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,"Min. Of State For Forestry, Fishing & Environment",2001,2001,1968,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State For Health & Social Welfare,2001,2001,,,male
+Q112128541,Lucas Nguema Esono,,"Min. Of State For Information, Tourism & Culture",2001,2001,,,male
+Q602837,Ricardo Mangue Obama Nfube,,Min. Of State For Labor & Social Security,2001,2001,1961,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Min. Of State For The Interior & Local Corporations,2001,2001,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State For Missions,2001,2001,,,male
+Q1353126,Miguel Abia Biteo Boriko,,Min. Of State At The Presidency In Charge Of Relations With Assemblies & Legal Matters,2001,2001,1961,2012,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State At The Presidency In Charge Of Special Duties,2001,2001,,,male
+Q112128490,Marcelino Oyono Ntutumu,,Min. Of State For Transport & Communication,2001,2001,,,male
+Q112162973,Constantine Eko Nsue,,"Min. Of Agriculture, Fisheries & Animal Husbandry",2001,2001,,,male
+Q57898,Ignacio Milam Tang,,Min. Of Civil Service & Administrative Reforms,2001,2001,1940,,male
+Q36908601,Augustin Nse Nfumu,,"Min. Of Culture, Tourism & Francophone Affairs",2001,2001,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of Economic Affairs & Finance,2001,2001,,,male
+Q112128487,Santiago Ngua Nfumu,,"Min. Of Education, Science & Francophone Affairs",2001,2001,,,male
+,Constantino Congue,,Min. Of Employment & Social Security,2001,2001,,,male
+Q17198388,Santiago Nsobeya Efuman Nchama,,"Min. Of Foreign Affairs, International Cooperation & Francophone Affairs",2001,2001,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Forestry & Environment,2001,2001,1968,,male
+Q112162993,Juan Antonio Ntutumu,,Min. Of Health & Social Welfare,2001,2001,,,male
+Q112162973,Constantino Ekong Nsue,,"Min. Of Industry, Commerce & Small Enterprises",2001,2001,,,male
+Q112128541,Lucas Nguema Esono,,"Min. Of Information, Tourism & Culture",2001,2001,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2001,2001,,,male
+Q55104856,Ruben Maye Nsue,,Min. Of Justice & Religion,2001,2001,,,male
+,Ernesto Maria Cayetano Toherida,,Min. Of Labor & Social Promotion,2001,2001,,,male
+Q112128524,Cristobal Menana Ela,,Min. Of Mines & Energy,2001,2001,,,male
+Q112128545,Fortunado Ofa Mbo,,Min. Of Planning & Economic Development,2001,2001,,,male
+Q112133583,Florentino Nkogo Ndong,,"Min. Of Public Works, Housing & Urban Affairs",2001,2001,,,male
+Q100786539,Teresa Efua Asangono,Q112162691,Min. Of Social Affairs & Women's Development,2001,2001,,,female
+,Julio Ndong Ela Mangue,,Min. Of Territorial Admin. & Local Govt.,2001,2001,,,male
+Q112162993,Juan Antonio Bibang Ntutumu,,Min. Of Youth & Sports,2001,2001,,,male
+Q112128527,Carlos Eyi Obama,Q112174437,"Min. Del. To Agriculture, Livestock & Rural Development",2001,2001,,,male
+Q112175149,Caridad Besari Borilo,,Dep. Min. Of Civil Service & Administrative Reform,2001,2001,,,female
+Q112162989,M. Jeremias Ondo Ngomo,,Dep. Min. Of Communications & Transports,2001,2001,,,male
+Q1353126,Miguel Abia Biteo Boriko,,Min. Del. Of Economic Affairs & Finance,2001,2001,1961,2012,male
+,Jos Ela Ebang,,"Min. Del. Of Foreign Affairs, International Cooperation & Francophone Affairs",2001,2001,,,male
+Q42907516,Evangelina Oyo Ebule,,Dep. Min. Of Justice & Religion,2001,2001,,,female
+Q112175244,Secundino Oyono Awong,,Dep. Min. Of Labor & Social Security,2001,2001,,,male
+Q112175181,Melanio Ebendeng Nsomo,,Min. Del. Of National Defense,2001,2001,,,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Dep. Min. Of National Security,2001,2001,1953,2016,male
+Q112162970,Carmelo Modu Acuse Bindang,,"Dep. Min. Of Public Works, Housing & Urban Affairs",2001,2001,,,male
+Q24761111,Francisco Pascual Eyegue Obama Asue,,Min. Del. To The Presidency In Charge Of Youth & Sports,2001,2001,1949,,male
+Q103916291,Anacleto Olo Mibuy,Q112174402,"Vice Min. Of Culture, Tourism & Crafts Promotion",2001,2001,,,male
+Q29122413,Marcelino Owono Edu,,Vice Min. Of Economy & Finance,2001,2001,1963,,male
+Q45320454,Filiberto Ntutumu Nguema,,Vice Min. Of Education & Science,2001,2001,,,male
+,Joaquin Mecheba Ivina,,"Vice Min. Of Forestry, Fishing & Environment",2001,2001,,,male
+Q112133279,Tomas Mecheba Fernandez Galilea,,Vice Min. Of Health & Social Welfare,2001,2001,,,male
+,Basilio Ava,,"Vice Min. Of Industry, Commerce & Small Enterprises",2001,2001,,,male
+Q112162986,Francisco Javier Ngomo Mbengono,,Vice Min. Of Justice & Religious Affairs,2001,2001,,,male
+Q112133235,Antonio Javier Nguema Nchama,Q112174421,Vice Min. Of Planning & Economic Development,2001,2001,,,male
+Q112128551,Alfonso Nsue Mokuy,,"Vice Min. Of Press, Radio & Television",2001,2001,,,male
+Q112186226,Ceferino Eburi Matta,,"Vice Min. Of Public Works, Housing & Urban Affairs",2001,2001,,,male
+Q112128482,Hilario Sisa Torrez,,Vice Min. Of Tourism & Culture,2001,2001,,,male
+Q112163002,Miguel Ekua Ondo,,Sec. Of State For Energy,2001,2001,,,male
+Q6554690,Lino Sima Ekua Avomo,Q112174513,Sec. Of State For International Cooperation & Francophone Affairs,2001,2001,1957,,male
+Q45042829,Gabriel Mbega Obiang Lima,,Sec. Of State For Mines,2001,2001,1974,,male
+Q112175158,Francisco Edu Ngua,,Sec. Of State For National Defense,2001,2001,,,male
+Q63731266,Antonio Mba Nguema,,Sec. Of State For National Security,2001,2001,1952,2019,male
+Q112128487,Santiago Ngua Nfumu,,"Sec. Of State For Press, Radio & Television",2001,2001,,,male
+Q112133263,Melchor Esono Edjo,,Sec. Of State For Treasury & Budget,2001,2001,,,male
+Q58151,Pastor Micha Ondo Bile,,Ambassador To The Us,2001,2001,1952,,male
+Q103916279,Teodoro Biyogo Nsue,Q112202472,"Permanent Representative To The Un, New York",2001,2001,,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2002,2002,1942,,male
+Q1149802,Candido Muatetema Rivas,,Prime Minister,2002,2002,1960,2014,male
+Q108426370,Miguel Oyono Ndong Mifumu,,First Dep. Prime Min.,2002,2002,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Dep. Prime Min.,2002,2002,,,male
+Q24761111,Francisco Pascual Eyegue Obama Asue,,Sec. Gen. Of The Govt.,2002,2002,1949,,male
+Q112162987,Gregorio Boho Camo,,"Min. Of State For Agriculture, Fisheries & Animal Husbandry",2002,2002,,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State In Charge Of Economy & Commerce,2002,2002,,,male
+Q112133229,Anatolio Ndong Mba,Q112174492,Min. Of State In Charge Of Planning & International Cooperation,2002,2002,,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State For Economy & Commerce,2002,2002,,,male
+Q112128529,Antonio Fernando Nve Ngu,,Min. Of State For Education & Science,2002,2002,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,"Min. Of State For Forestry, Fishing & Environment",2002,2002,1968,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State For Health & Social Welfare,2002,2002,,,male
+Q112128541,Lucas Nguema Esono,,"Min. Of State For Information, Tourism & Culture",2002,2002,,,male
+Q602837,Ricardo Mangue Obama Nfube,,Min. Of State For Labor & Social Security,2002,2002,1961,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Min. Of State For The Interior & Local Corporations,2002,2002,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State For Missions,2002,2002,,,male
+Q1353126,Miguel Abia Biteo Boriko,,Min. Of State At The Presidency In Charge Of Relations With Assemblies & Legal Matters,2002,2002,1961,2012,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State At The Presidency In Charge Of Special Duties,2002,2002,,,male
+Q112128490,Marcelino Oyono Ntutumu,,Min. Of State For Transport & Communication,2002,2002,,,male
+Q112162973,Constantine Eko Nsue,,"Min. Of Agriculture, Fisheries & Animal Husbandry",2002,2002,,,male
+Q57898,Ignacio Milam Tang,,Min. Of Civil Service & Administrative Reforms,2002,2002,1940,,male
+Q36908601,Augustin Nse Nfumu,,"Min. Of Culture, Tourism & Francophone Affairs",2002,2002,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of Economic Affairs & Finance,2002,2002,,,male
+Q112128487,Santiago Ngua Nfumu,,"Min. Of Education, Science & Francophone Affairs",2002,2002,,,male
+,Constantino Congue,,Min. Of Employment & Social Security,2002,2002,,,male
+Q17198388,Santiago Nsobeya Efuman Nchama,,"Min. Of Foreign Affairs, International Cooperation & Francophone Affairs",2002,2002,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Forestry & Environment,2002,2002,1968,,male
+Q112162993,Juan Antonio Ntutumu,,Min. Of Health & Social Welfare,2002,2002,,,male
+Q112162973,Constantino Ekong Nsue,,"Min. Of Industry, Commerce & Small Enterprises",2002,2002,,,male
+Q112128541,Lucas Nguema Esono,,"Min. Of Information, Tourism & Culture",2002,2002,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2002,2002,,,male
+Q55104856,Ruben Maye Nsue,,Min. Of Justice & Religion,2002,2002,,,male
+,Ernesto Maria Cayetano Toherida,,Min. Of Labor & Social Promotion,2002,2002,,,male
+Q112128524,Cristobal Menana Ela,,Min. Of Mines & Energy,2002,2002,,,male
+Q112128545,Fortunado Ofa Mbo,,Min. Of Planning & Economic Development,2002,2002,,,male
+Q112133583,Florentino Nkogo Ndong,,"Min. Of Public Works, Housing & Urban Affairs",2002,2002,,,male
+Q100786539,Teresa Efua Asangono,Q112162691,Min. Of Social Affairs & Women's Development,2002,2002,,,female
+,Julio Ndong Ela Mangue,,Min. Of Territorial Admin. & Local Govt.,2002,2002,,,male
+Q112162993,Juan Antonio Bibang Ntutumu,,Min. Of Youth & Sports,2002,2002,,,male
+Q112128527,Carlos Eyi Obama,Q112174437,"Min. Del. To Agriculture, Livestock & Rural Development",2002,2002,,,male
+Q112175149,Caridad Besari Borilo,,Dep. Min. Of Civil Service & Administrative Reform,2002,2002,,,female
+Q112162989,M. Jeremias Ondo Ngomo,,Dep. Min. Of Communications & Transports,2002,2002,,,male
+Q1353126,Miguel Abia Biteo Boriko,,Min. Del. Of Economic Affairs & Finance,2002,2002,1961,2012,male
+,Jos Ela Ebang,,"Min. Del. Of Foreign Affairs, International Cooperation & Francophone Affairs",2002,2002,,,male
+Q42907516,Evangelina Oyo Ebule,,Dep. Min. Of Justice & Religion,2002,2002,,,female
+Q112175244,Secundino Oyono Awong,,Dep. Min. Of Labor & Social Security,2002,2002,,,male
+Q112175181,Melanio Ebendeng Nsomo,,Min. Del. Of National Defense,2002,2002,,,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Dep. Min. Of National Security,2002,2002,1953,2016,male
+Q112162970,Carmelo Modu Acuse Bindang,,"Dep. Min. Of Public Works, Housing & Urban Affairs",2002,2002,,,male
+Q24761111,Francisco Pascual Eyegue Obama Asue,,Min. Del. To The Presidency In Charge Of Youth & Sports,2002,2002,1949,,male
+Q103916291,Anacleto Olo Mibuy,Q112174402,"Vice Min. Of Culture, Tourism & Crafts Promotion",2002,2002,,,male
+Q29122413,Marcelino Owono Edu,,Vice Min. Of Economy & Finance,2002,2002,1963,,male
+Q45320454,Filiberto Ntutumu Nguema,,Vice Min. Of Education & Science,2002,2002,,,male
+,Joaquin Mecheba Ivina,,"Vice Min. Of Forestry, Fishing & Environment",2002,2002,,,male
+Q112133279,Tomas Mecheba Fernandez Galilea,,Vice Min. Of Health & Social Welfare,2002,2002,,,male
+,Basilio Ava,,"Vice Min. Of Industry, Commerce & Small Enterprises",2002,2002,,,male
+Q112162986,Francisco Javier Ngomo Mbengono,,Vice Min. Of Justice & Religious Affairs,2002,2002,,,male
+Q112133235,Antonio Javier Nguema Nchama,Q112174421,Vice Min. Of Planning & Economic Development,2002,2002,,,male
+Q112128551,Alfonso Nsue Mokuy,,"Vice Min. Of Press, Radio & Television",2002,2002,,,male
+Q112186226,Ceferino Eburi Matta,,"Vice Min. Of Public Works, Housing & Urban Affairs",2002,2002,,,male
+Q112128482,Hilario Sisa Torrez,,Vice Min. Of Tourism & Culture,2002,2002,,,male
+Q112163002,Miguel Ekua Ondo,,Sec. Of State For Energy,2002,2002,,,male
+Q6554690,Lino Sima Ekua Avomo,Q112174513,Sec. Of State For International Cooperation & Francophone Affairs,2002,2002,1957,,male
+Q45042829,Gabriel Mbega Obiang Lima,,Sec. Of State For Mines,2002,2002,1974,,male
+Q112175158,Francisco Edu Ngua,,Sec. Of State For National Defense,2002,2002,,,male
+Q63731266,Antonio Mba Nguema,,Sec. Of State For National Security,2002,2002,1952,2019,male
+Q112128487,Santiago Ngua Nfumu,,"Sec. Of State For Press, Radio & Television",2002,2002,,,male
+Q112133263,Melchor Esono Edjo,,Sec. Of State For Treasury & Budget,2002,2002,,,male
+Q58151,Pastor Micha Ondo Bile,,Ambassador To The Us,2002,2002,1952,,male
+Q103916279,Teodoro Biyogo Nsue,Q112202472,"Permanent Representative To The Un, New York",2002,2002,,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2003,2003,1942,,male
+Q1149802,Candido Muatetema Rivas,,Prime Minister,2003,2003,1960,2014,male
+Q108426370,Miguel Oyono Ndong Mifumu,,First Dep. Prime Min.,2003,2003,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Dep. Prime Min.,2003,2003,,,male
+Q24761111,Francisco Pascual Eyegue Obama Asue,,Sec. Gen. Of The Govt.,2003,2003,1949,,male
+Q112162987,Gregorio Boho Camo,,"Min. Of State For Agriculture, Fisheries & Animal Husbandry",2003,2003,,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State In Charge Of Economy & Commerce,2003,2003,,,male
+Q112133229,Anatolio Ndong Mba,Q112174492,Min. Of State In Charge Of Planning & International Cooperation,2003,2003,,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State For Economy & Commerce,2003,2003,,,male
+Q112128529,Antonio Fernando Nve Ngu,,Min. Of State For Education & Science,2003,2003,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,"Min. Of State For Forestry, Fishing & Environment",2003,2003,1968,,male
+Q55104853,Marcelino Nguema Onguene,,Min. Of State For Health & Social Welfare,2003,2003,,,male
+Q112128541,Lucas Nguema Esono,,"Min. Of State For Information, Tourism & Culture",2003,2003,,,male
+Q602837,Ricardo Mangue Obama Nfube,,Min. Of State For Labor & Social Security,2003,2003,1961,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Min. Of State For The Interior & Local Corporations,2003,2003,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State For Missions,2003,2003,,,male
+Q1353126,Miguel Abia Biteo Boriko,,Min. Of State At The Presidency In Charge Of Relations With Assemblies & Legal Matters,2003,2003,1961,2012,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State At The Presidency In Charge Of Special Duties,2003,2003,,,male
+Q112128490,Marcelino Oyono Ntutumu,,Min. Of State For Transport & Communication,2003,2003,,,male
+Q112162973,Constantine Eko Nsue,,"Min. Of Agriculture, Fisheries & Animal Husbandry",2003,2003,,,male
+Q57898,Ignacio Milam Tang,,Min. Of Civil Service & Administrative Reforms,2003,2003,1940,,male
+Q36908601,Augustin Nse Nfumu,,"Min. Of Culture, Tourism & Francophone Affairs",2003,2003,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of Economic Affairs & Finance,2003,2003,,,male
+Q112128487,Santiago Ngua Nfumu,,"Min. Of Education, Science & Francophone Affairs",2003,2003,,,male
+,Constantino Congue,,Min. Of Employment & Social Security,2003,2003,,,male
+Q17198388,Santiago Nsobeya Efuman Nchama,,"Min. Of Foreign Affairs, International Cooperation & Francophone Affairs",2003,2003,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Forestry & Environment,2003,2003,1968,,male
+Q112162993,Juan Antonio Ntutumu,,Min. Of Health & Social Welfare,2003,2003,,,male
+Q112162973,Constantino Ekong Nsue,,"Min. Of Industry, Commerce & Small Enterprises",2003,2003,,,male
+Q112128541,Lucas Nguema Esono,,"Min. Of Information, Tourism & Culture",2003,2003,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2003,2003,,,male
+Q55104856,Ruben Maye Nsue,,Min. Of Justice & Religion,2003,2003,,,male
+,Ernesto Maria Cayetano Toherida,,Min. Of Labor & Social Promotion,2003,2003,,,male
+Q112128524,Cristobal Menana Ela,,Min. Of Mines & Energy,2003,2003,,,male
+Q112128545,Fortunado Ofa Mbo,,Min. Of Planning & Economic Development,2003,2003,,,male
+Q112133583,Florentino Nkogo Ndong,,"Min. Of Public Works, Housing & Urban Affairs",2003,2003,,,male
+Q100786539,Teresa Efua Asangono,Q112162691,Min. Of Social Affairs & Women's Development,2003,2003,,,female
+,Julio Ndong Ela Mangue,,Min. Of Territorial Admin. & Local Govt.,2003,2003,,,male
+Q112162993,Juan Antonio Bibang Ntutumu,,Min. Of Youth & Sports,2003,2003,,,male
+Q112128527,Carlos Eyi Obama,Q112174437,"Min. Del. To Agriculture, Livestock & Rural Development",2003,2003,,,male
+Q112175149,Caridad Besari Borilo,,Dep. Min. Of Civil Service & Administrative Reform,2003,2003,,,female
+Q112162989,M. Jeremias Ondo Ngomo,,Dep. Min. Of Communications & Transports,2003,2003,,,male
+Q1353126,Miguel Abia Biteo Boriko,,Min. Del. Of Economic Affairs & Finance,2003,2003,1961,2012,male
+,Jos Ela Ebang,,"Min. Del. Of Foreign Affairs, International Cooperation & Francophone Affairs",2003,2003,,,male
+Q42907516,Evangelina Oyo Ebule,,Dep. Min. Of Justice & Religion,2003,2003,,,female
+Q112175244,Secundino Oyono Awong,,Dep. Min. Of Labor & Social Security,2003,2003,,,male
+Q112175181,Melanio Ebendeng Nsomo,,Min. Del. Of National Defense,2003,2003,,,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Dep. Min. Of National Security,2003,2003,1953,2016,male
+Q112162970,Carmelo Modu Acuse Bindang,,"Dep. Min. Of Public Works, Housing & Urban Affairs",2003,2003,,,male
+Q24761111,Francisco Pascual Eyegue Obama Asue,,Min. Del. To The Presidency In Charge Of Youth & Sports,2003,2003,1949,,male
+Q103916291,Anacleto Olo Mibuy,Q112174402,"Vice Min. Of Culture, Tourism & Crafts Promotion",2003,2003,,,male
+Q29122413,Marcelino Owono Edu,,Vice Min. Of Economy & Finance,2003,2003,1963,,male
+Q45320454,Filiberto Ntutumu Nguema,,Vice Min. Of Education & Science,2003,2003,,,male
+,Joaquin Mecheba Ivina,,"Vice Min. Of Forestry, Fishing & Environment",2003,2003,,,male
+Q112133279,Tomas Mecheba Fernandez Galilea,,Vice Min. Of Health & Social Welfare,2003,2003,,,male
+,Basilio Ava,,"Vice Min. Of Industry, Commerce & Small Enterprises",2003,2003,,,male
+Q112162986,Francisco Javier Ngomo Mbengono,,Vice Min. Of Justice & Religious Affairs,2003,2003,,,male
+Q112133235,Antonio Javier Nguema Nchama,Q112174421,Vice Min. Of Planning & Economic Development,2003,2003,,,male
+Q112128551,Alfonso Nsue Mokuy,,"Vice Min. Of Press, Radio & Television",2003,2003,,,male
+Q112186226,Ceferino Eburi Matta,,"Vice Min. Of Public Works, Housing & Urban Affairs",2003,2003,,,male
+Q112128482,Hilario Sisa Torrez,,Vice Min. Of Tourism & Culture,2003,2003,,,male
+Q112163002,Miguel Ekua Ondo,,Sec. Of State For Energy,2003,2003,,,male
+Q6554690,Lino Sima Ekua Avomo,Q112174513,Sec. Of State For International Cooperation & Francophone Affairs,2003,2003,1957,,male
+Q45042829,Gabriel Mbega Obiang Lima,,Sec. Of State For Mines,2003,2003,1974,,male
+Q112175158,Francisco Edu Ngua,,Sec. Of State For National Defense,2003,2003,,,male
+Q63731266,Antonio Mba Nguema,,Sec. Of State For National Security,2003,2003,1952,2019,male
+Q112128487,Santiago Ngua Nfumu,,"Sec. Of State For Press, Radio & Television",2003,2003,,,male
+Q112133263,Melchor Esono Edjo,,Sec. Of State For Treasury & Budget,2003,2003,,,male
+Q58151,Pastor Micha Ondo Bile,,Ambassador To The Us,2003,2003,1952,,male
+Q6554690,Lino Sima Ekua Avomo,Q112202472,"Permanent Representative To The Un, New York",2003,2003,1957,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2004,2004,1942,,male
+Q1353126,Miguel Abia Biteo Boriko,,Prime Minister,2004,2004,1961,2012,male
+Q112128490,Marcelino Oyono Ntutumu,,First Vice Prime Min.,2004,2004,,,male
+Q602837,Ricardo Mangue Obama Nfube,,Second Vice Prime Min.,2004,2004,1961,,male
+Q112162962,Antonio Martin Ndong Ntutumu,,Sec. Gen. Of The Government,2004,2004,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2004,2004,1968,,male
+Q112128530,Jaime Ela Ndong,,"Min. Of Economy, Commerce & Promotion",2004,2004,,,male
+Q112128524,Cristobal Menana Ela,,"Min. Of Education, Science & Sports",2004,2004,,,male
+Q29122413,Marcelino Owono Edu,,Min. Of Finance & Budget,2004,2004,1963,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, International Cooperation & Francophone Affairs",2004,2004,1952,,male
+Q112128551,Alfonso Nsue Mokuy,,"Min. Of Information, Tourism & Culture",2004,2004,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2004,2004,,,male
+Q112128540,Angel Masie Mibuy,,"Min. Of Justice, Culture & Penitentiary Institutions",2004,2004,,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2004,2004,1952,2019,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Min. Of National Security,2004,2004,1953,2016,male
+Q112128507,Antanasio Ela Ntugu Nsa,,"Min. Of Mines, Industry & Energy",2004,2004,,,male
+Q112162970,Carmelo Modu Acuse Bindang,,"Min. Of Planning, Economic Development & Public Investment",2004,2004,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2004,2004,,,male
+Q112133587,Enrique Mercader Costa,,Min. Of Travel & Social Security,2004,2004,,,male
+Q112128556,Aniceto Ebiaka Moete,,Min. Of Urban Planning,2004,2004,,,male
+Q112128467,Jesusa Obono Engono,,Min. Of Women's Affairs,2004,2004,,,female
+Q58151,Pastor Micha Ondo Bile,,Ambassador To The Us,2004,2004,1952,,male
+Q6554690,Lino Sima Ekua Avomo,Q112202472,"Permanent Representative To The Un, New York",2004,2004,1957,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2005,2005,1942,,male
+Q1353126,Miguel Abia Biteo Boriko,,Prime Minister,2005,2005,1961,2012,male
+Q112128490,Marcelino Oyono Ntutumu,,First Vice Prime Min.,2005,2005,,,male
+Q602837,Ricardo Mangue Obama Nfube,,Second Vice Prime Min.,2005,2005,1961,,male
+Q112162962,Antonio Martin Ndong Ntutumu,,Sec. Gen. Of The Government,2005,2005,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2005,2005,1968,,male
+Q112128530,Jaime Ela Ndong,,"Min. Of Economy, Commerce & Promotion",2005,2005,,,male
+Q112128524,Cristobal Menana Ela,,"Min. Of Education, Science & Sports",2005,2005,,,male
+Q29122413,Marcelino Owono Edu,,Min. Of Finance & Budget,2005,2005,1963,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, International Cooperation & Francophone Affairs",2005,2005,1952,,male
+Q112128551,Alfonso Nsue Mokuy,,"Min. Of Information, Tourism & Culture",2005,2005,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2005,2005,,,male
+Q112128540,Angel Masie Mibuy,,"Min. Of Justice, Culture & Penitentiary Institutions",2005,2005,,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2005,2005,1952,2019,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Min. Of National Security,2005,2005,1953,2016,male
+Q112128507,Antanasio Ela Ntugu Nsa,,"Min. Of Mines, Industry & Energy",2005,2005,,,male
+Q112162970,Carmelo Modu Acuse Bindang,,"Min. Of Planning, Economic Development & Public Investment",2005,2005,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2005,2005,,,male
+Q112133587,Enrique Mercader Costa,,Min. Of Travel & Social Security,2005,2005,,,male
+Q112128556,Aniceto Ebiaka Moete,,Min. Of Urban Planning,2005,2005,,,male
+Q112128467,Jesusa Obono Engono,,Min. Of Women's Affairs,2005,2005,,,female
+Q58151,Pastor Micha Ondo Bile,,Ambassador To The Us,2005,2005,1952,,male
+Q6554690,Lino Sima Ekua Avomo,Q112202472,"Permanent Representative To The Un, New York",2005,2005,1957,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2006,2006,1942,,male
+Q1353126,Miguel Abia Biteo Boriko,,Prime Minister,2006,2006,1961,2012,male
+Q112128490,Marcelino Oyono Ntutumu,,First Vice Prime Min.,2006,2006,,,male
+Q602837,Ricardo Mangue Obama Nfube,,Second Vice Prime Min.,2006,2006,1961,,male
+Q112162962,Antonio Martin Ndong Ntutumu,,Sec. Gen. Of The Government,2006,2006,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2006,2006,1968,,male
+Q112128530,Jaime Ela Ndong,,"Min. Of Economy, Commerce & Promotion",2006,2006,,,male
+Q112128524,Cristobal Menana Ela,,"Min. Of Education, Science & Sports",2006,2006,,,male
+Q29122413,Marcelino Owono Edu,,Min. Of Finance & Budget,2006,2006,1963,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, International Cooperation & Francophone Affairs",2006,2006,1952,,male
+Q112128551,Alfonso Nsue Mokuy,,"Min. Of Information, Tourism & Culture",2006,2006,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2006,2006,,,male
+Q112128540,Angel Masie Mibuy,,"Min. Of Justice, Culture & Penitentiary Institutions",2006,2006,,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2006,2006,1952,2019,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Min. Of National Security,2006,2006,1953,2016,male
+Q112128507,Antanasio Ela Ntugu Nsa,,"Min. Of Mines, Industry & Energy",2006,2006,,,male
+Q112162970,Carmelo Modu Acuse Bindang,,"Min. Of Planning, Economic Development & Public Investment",2006,2006,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2006,2006,,,male
+Q112133587,Enrique Mercader Costa,,Min. Of Travel & Social Security,2006,2006,,,male
+Q112128556,Aniceto Ebiaka Moete,,Min. Of Urban Planning,2006,2006,,,male
+Q112128467,Jesusa Obono Engono,,Min. Of Women's Affairs,2006,2006,,,female
+Q28532112,Purificacion Angue Ondo,,Ambassador To The Us,2006,2006,1945,,female
+Q6554690,Lino Sima Ekua Avomo,Q112202472,"Permanent Representative To The Un, New York",2006,2006,1957,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2007,2007,1942,,male
+Q602837,Ricardo Mangue Obama Nfube,,Prime Min.,2007,2007,1961,,male
+Q112128556,Aniceto Ebiaka Moete,,First Vice Prime Min. In Charge Of Human Rights,2007,2007,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Second Vice Prime Min. In Charge Of The Interior,2007,2007,,,male
+Q112128545,Fortunado Ofa Mbo,,Sec. Gen. Of The Govt. In Charge Of Administrative Coordination,2007,2007,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2007,2007,1968,,male
+Q2201806,Vincente Ehate Tomi,,Min. Of Civil Service & Adminstrative Planning,2007,2007,1968,,male
+Q112128530,Jaime Ela Ndong,,"Min. Of Economy, Commerce & Promotion",2007,2007,,,male
+Q112128524,Cristobal Menana Ela,,"Min. Of Education, Science & Sports",2007,2007,,,male
+Q29122413,Marcelino Owono Edu,,Min. Of Finance & Budget,2007,2007,1963,,male
+Q112133280,Vincente Rodriguez Siosa,,Min. Of Fishing & The Environment,2007,2007,,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, Intl. Cooperation & Francophone Affairs",2007,2007,1952,,male
+Q112162962,Antonio Martin Ndong Ntutumu,,Min. Of Health,2007,2007,,,male
+Q17198388,Santiago Nsobeya Efuman Nchama,,"Min. Of Information, Culture, Tourism & Govt. Spokesman",2007,2007,,,male
+Q112162984,Fidel Nsue Micha,,Min. Of Infrastructure & Urban Planning,2007,2007,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of Integration,2007,2007,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2007,2007,,,male
+Q112128491,Mauricio Bokung Asumu,,"Min. Of Justice, Culture & Penitentiary Institutions",2007,2007,,,male
+Q42907516,Evangelina Oyo Ebule,,Min. Of Labor & Social Security,2007,2007,,,female
+Q112128507,Antanasio Ela Ntugu Nsa,,"Min. Of Mines, Industry & Energy",2007,2007,,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2007,2007,1952,2019,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Min. Of National Security,2007,2007,1953,2016,male
+Q112162991,Jose Ela Oyana,,"Min. Of Planning, Economic Development & Public Investment",2007,2007,,,male
+Q112133245,Eulalia Envo Bela,,Min. Of Social Affairs & The Promotion Of Women,2007,2007,,,female
+Q112128517,Demetrio Elo Ndong Nsefumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2007,2007,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. At The Presidency In Charge Of Missions,2007,2007,,,male
+Q112162970,Carmelo Modu Acuse Bindang,,Min. At The Presidency In Charge Of Political Affairs & Admin.,2007,2007,,,male
+Q112128551,Alfonso Nsue Mokuy,,"Min. At The Presidency In Charge Of Information, Culture & Tourism",2007,2007,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With Parliament,2007,2007,,,male
+Q28532112,Purificacion Angue Ondo,,Ambassador To The Us,2007,2007,1945,,female
+Q6554690,Lino Sima Ekua Avomo,Q112202472,"Permanent Representative To The Un, New York",2007,2007,1957,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2008,2008,1942,,male
+Q602837,Ricardo Mangue Obama Nfube,,Prime Min.,2008,2008,1961,,male
+Q112128556,Aniceto Ebiaka Moete,,First Vice Prime Min. In Charge Of Human Rights,2008,2008,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Second Vice Prime Min. In Charge Of The Interior,2008,2008,,,male
+Q112128545,Fortunado Ofa Mbo,,Sec. Gen. Of The Govt. In Charge Of Administrative Coordination,2008,2008,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2008,2008,1968,,male
+Q2201806,Vincente Ehate Tomi,,Min. Of Civil Service & Adminstrative Planning,2008,2008,1968,,male
+Q112128530,Jaime Ela Ndong,,"Min. Of Economy, Commerce & Promotion",2008,2008,,,male
+Q112128524,Cristobal Menana Ela,,"Min. Of Education, Science & Sports",2008,2008,,,male
+Q29122413,Marcelino Owono Edu,,Min. Of Finance & Budget,2008,2008,1963,,male
+Q112133280,Vincente Rodriguez Siosa,,Min. Of Fishing & The Environment,2008,2008,,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, Intl. Cooperation & Francophone Affairs",2008,2008,1952,,male
+Q112162962,Antonio Martin Ndong Ntutumu,,Min. Of Health,2008,2008,,,male
+Q17198388,Santiago Nsobeya Efuman Nchama,,"Min. Of Information, Culture, Tourism & Govt. Spokesman",2008,2008,,,male
+Q112162984,Fidel Nsue Micha,,Min. Of Infrastructure & Urban Planning,2008,2008,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of Integration,2008,2008,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2008,2008,,,male
+Q112128491,Mauricio Bokung Asumu,,"Min. Of Justice, Culture & Penitentiary Institutions",2008,2008,,,male
+Q42907516,Evangelina Oyo Ebule,,Min. Of Labor & Social Security,2008,2008,,,female
+Q112128507,Antanasio Ela Ntugu Nsa,,"Min. Of Mines, Industry & Energy",2008,2008,,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2008,2008,1952,2019,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Min. Of National Security,2008,2008,1953,2016,male
+Q112162991,Jose Ela Oyana,,"Min. Of Planning, Economic Development & Public Investment",2008,2008,,,male
+Q112133245,Eulalia Envo Bela,,Min. Of Social Affairs & The Promotion Of Women,2008,2008,,,female
+Q112128517,Demetrio Elo Ndong Nsefumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2008,2008,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. At The Presidency In Charge Of Missions,2008,2008,,,male
+Q112162970,Carmelo Modu Acuse Bindang,,Min. At The Presidency In Charge Of Political Affairs & Admin.,2008,2008,,,male
+Q112128551,Alfonso Nsue Mokuy,,"Min. At The Presidency In Charge Of Information, Culture & Tourism",2008,2008,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With Parliament,2008,2008,,,male
+Q28532112,Purificacion Angue Ondo,,Ambassador To The Us,2008,2008,1945,,female
+Q6554690,Lino Sima Ekua Avomo,Q112202472,"Permanent Representative To The Un, New York",2008,2008,1957,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2009,2009,1942,,male
+Q602837,Ricardo Mangue Obama Nfube,,Prime Min.,2009,2009,1961,,male
+Q112128556,Aniceto Ebiaka Moete,,First Vice Prime Min. In Charge Of Human Rights,2009,2009,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Second Vice Prime Min. In Charge Of The Interior,2009,2009,,,male
+Q112128545,Fortunado Ofa Mbo,,Sec. Gen. Of The Govt. In Charge Of Admin. Coordination,2009,2009,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2009,2009,1968,,male
+Q2201806,Vincente Ehate Tomi,,Min. Of Civil Service & Admin. Planning,2009,2009,1968,,male
+Q112128530,Jaime Ela Ndong,,"Min. Of Economy, Commerce & Promotion",2009,2009,,,male
+Q112128524,Cristobal Menana Ela,,"Min. Of Education, Science & Sports",2009,2009,,,male
+Q29122413,Marcelino Owono Edu,,Min. Of Finance & Budget,2009,2009,1963,,male
+Q112133280,Vincente Rodriguez Siosa,,Min. Of Fishing & The Environment,2009,2009,,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, Intl. Cooperation & Francophone Affairs",2009,2009,1952,,male
+Q112162962,Antonio Martin Ndong Ntutumu,,Min. Of Health,2009,2009,,,male
+Q17198388,Santiago Nsobeya Efuman Nchama,,"Min. Of Information, Culture, Tourism & Govt. Spokesman",2009,2009,,,male
+Q112162984,Fidel Nsue Micha,,Min. Of Infrastructure & Urban Planning,2009,2009,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of Integration,2009,2009,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2009,2009,,,male
+Q112128491,Mauricio Bokung Asumu,,"Min. Of Justice, Culture & Penitentiary Institutions",2009,2009,,,male
+Q42907516,Evangelina Oyo Ebule,,Min. Of Labor & Social Security,2009,2009,,,female
+Q112128507,Antanasio Ela Ntugu Nsa,,"Min. Of Mines, Industry & Energy",2009,2009,,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2009,2009,1952,2019,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Min. Of National Security,2009,2009,1953,2016,male
+Q112162991,Jose Ela Oyana,,"Min. Of Planning, Economic Development & Public Investment",2009,2009,,,male
+Q112133245,Eulalia Envo Bela,,Min. Of Social Affairs & The Promotion Of Women,2009,2009,,,female
+Q112128517,Demetrio Elo Ndong Nsefumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2009,2009,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. At The Presidency In Charge Of Missions,2009,2009,,,male
+Q112162970,Carmelo Modu Acuse Bindang,,Min. At The Presidency In Charge Of Political Affairs & Admin.,2009,2009,,,male
+Q112128551,Alfonso Nsue Mokuy,,"Min. At The Presidency In Charge Of Information, Culture & Tourism",2009,2009,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With Parliament,2009,2009,,,male
+Q28532112,Purificacion Angue Ondo,,Ambassador To The Us,2009,2009,1945,,female
+Q6554690,Lino Sima Ekua Avomo,Q112202472,"Permanent Representative To The Un, New York",2009,2009,1957,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2010,2010,1942,,male
+Q602837,Ricardo Mangue Obama Nfube,,Prime Min.,2010,2010,1961,,male
+Q112128556,Aniceto Ebiaka Moete,,First Vice Prime Min. In Charge Of Human Rights,2010,2010,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Second Vice Prime Min. In Charge Of The Interior,2010,2010,,,male
+Q112128545,Fortunado Ofa Mbo,,Sec. Gen. Of The Govt. In Charge Of Admin. Coordination,2010,2010,,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2010,2010,1968,,male
+Q2201806,Vincente Ehate Tomi,,Min. Of Civil Service & Admin. Planning,2010,2010,1968,,male
+Q112128530,Jaime Ela Ndong,,"Min. Of Economy, Commerce & Promotion",2010,2010,,,male
+Q112128524,Cristobal Menana Ela,,"Min. Of Education, Science & Sports",2010,2010,,,male
+Q29122413,Marcelino Owono Edu,,Min. Of Finance & Budget,2010,2010,1963,,male
+Q112133280,Vincente Rodriguez Siosa,,Min. Of Fishing & The Environment,2010,2010,,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, Intl. Cooperation & Francophone Affairs",2010,2010,1952,,male
+Q112162962,Antonio Martin Ndong Ntutumu,,Min. Of Health,2010,2010,,,male
+Q17198388,Santiago Nsobeya Efuman Nchama,,"Min. Of Information, Culture, Tourism & Govt. Spokesman",2010,2010,,,male
+Q112162984,Fidel Nsue Micha,,Min. Of Infrastructure & Urban Planning,2010,2010,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of Integration,2010,2010,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Interior & Local Corporations,2010,2010,,,male
+Q112128491,Mauricio Bokung Asumu,,"Min. Of Justice, Culture & Penitentiary Institutions",2010,2010,,,male
+Q42907516,Evangelina Oyo Ebule,,Min. Of Labor & Social Security,2010,2010,,,female
+Q112128507,Antanasio Ela Ntugu Nsa,,"Min. Of Mines, Industry & Energy",2010,2010,,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2010,2010,1952,2019,male
+Q112162997,Manuel Nguema Mba Ma Mba,,Min. Of National Security,2010,2010,1953,2016,male
+Q112162991,Jose Ela Oyana,,"Min. Of Planning, Economic Development & Public Investment",2010,2010,,,male
+Q112133245,Eulalia Envo Bela,,Min. Of Social Affairs & The Promotion Of Women,2010,2010,,,female
+Q112128517,Demetrio Elo Ndong Nsefumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2010,2010,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. At The Presidency In Charge Of Missions,2010,2010,,,male
+Q112162970,Carmelo Modu Acuse Bindang,,Min. At The Presidency In Charge Of Political Affairs & Admin.,2010,2010,,,male
+Q112128551,Alfonso Nsue Mokuy,,"Min. At The Presidency In Charge Of Information, Culture & Tourism",2010,2010,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With Parliament,2010,2010,,,male
+Q28532112,Purificacion Angue Ondo,,Ambassador To The Us,2010,2010,1945,,female
+Q6554690,Lino Sima Ekua Avomo,Q112202472,"Permanent Representative To The Un, New York",2010,2010,1957,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2011,2011,1942,,male
+Q57898,Ignacio Milam Tang,,Prime Min.,2011,2011,1940,,male
+Q112128556,Aniceto Ebiaka Moete,,First Vice Prime Min. In Charge Of Economic & Financial Affairs,2011,2011,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Second Vice Prime Min. In Charge Of Political & Democracy Affairs,2011,2011,,,male
+Q112128523,Salomon Nguema Owono,,Third Vice Prime Min. In Charge Of Social & Human Rights Affairs,2011,2011,,,male
+Q2201806,Vincente Ehate Tomi,,Sec. Gen. Of The Govt. In Charge Of Admin. Coordination,2011,2011,1968,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2011,2011,1968,,male
+Q112133405,Francisca Tatchoup Belope,,"Min. Of Economy, Commerce & Business Development",2011,2011,,,female
+Q112162990,Joaquin Nbana Nchama,,"Min. Of Education, Science & Sports",2011,2011,,,male
+Q112133263,Melchor Esono Edjo,,Min. Of Finance & Budget,2011,2011,,,male
+Q112133227,Anastasio Asumu Mum Munoz,,Min. Of Fishing & The Environment,2011,2011,,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, Intl. Cooperation & Francophone Affairs",2011,2011,1952,,male
+Q112128523,Salomon Nguema Owono,,Min. Of Health & Social Welfare,2011,2011,,,male
+Q3177434,Jeronimo Osa Osa Ecoro,,"Min. Of Information, Culture, Tourism & Govt. Spokesman",2011,2011,1963,,male
+Q112162986,Francisco Javier Ngomo Mbengono,,"Min. Of Justice, Religious Affairs & Penitentiary Institutions",2011,2011,,,male
+Q112162980,Estanislao Don Malavo,,Min. Of Labor & Social Security,2011,2011,,,male
+Q29122413,Marcelino Owono Edu,,"Min. Of Mines, Industry & Energy",2011,2011,1963,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2011,2011,1952,2019,male
+Q112163007,Nicolas Obama Nchama,,Min. Of National Security,2011,2011,,,male
+Q112162991,Jose Ela Oyana,,"Min. Of Planning, Economic Development & Public Investment",2011,2011,,,male
+Q112163018,Tomas Esono Ava,,Min. Of Public Admin. & Admin. Planning,2011,2011,,,male
+Q112128490,Marcelino Oyono Ntutumu,,Min. Of Public Works & Infrastructures,2011,2011,,,male
+Q112133245,Eulalia Envo Bela,,Min. Of Social Affairs & The Promotion Of Women,2011,2011,,,female
+Q112128491,Mauricio Bokung Asumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2011,2011,,,male
+Q112162969,Braulio Ncogo Abegue,,Min. At The Presidency In Charge Of Civil Cabinet,2011,2011,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. At The Presidency In Charge Of Missions,2011,2011,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. At The Presidency In Charge Of Regional Integration,2011,2011,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With Parliament,2011,2011,,,male
+Q28532112,Purificacion Angue Ondo,,Ambassador To The Us,2011,2011,1945,,female
+Q112133229,Anatolio Ndong Mba,Q112202472,"Permanent Representative To The Un, New York",2011,2011,,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2012,2012,1942,,male
+Q57898,Ignacio Milam Tang,,Prime Min.,2012,2012,1940,,male
+Q112128556,Aniceto Ebiaka Moete,,First Vice Prime Min. In Charge Of Economic & Financial Affairs,2012,2012,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Second Vice Prime Min. In Charge Of Political & Democracy Affairs,2012,2012,,,male
+Q112128523,Salomon Nguema Owono,,Third Vice Prime Min. In Charge Of Social & Human Rights Affairs,2012,2012,,,male
+Q2201806,Vincente Ehate Tomi,,Sec. Gen. Of The Govt. In Charge Of Admin. Coordination,2012,2012,1968,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2012,2012,1968,,male
+Q112133405,Francisca Tatchoup Belope,,"Min. Of Economy, Commerce & Business Development",2012,2012,,,female
+Q112162990,Joaquin Nbana Nchama,,"Min. Of Education, Science & Sports",2012,2012,,,male
+Q112133263,Melchor Esono Edjo,,Min. Of Finance & Budget,2012,2012,,,male
+Q112133227,Anastasio Asumu Mum Munoz,,Min. Of Fishing & The Environment,2012,2012,,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, Intl. Cooperation & Francophone Affairs",2012,2012,1952,,male
+Q112128523,Salomon Nguema Owono,,Min. Of Health & Social Welfare,2012,2012,,,male
+Q3177434,Jeronimo Osa Osa Ecoro,,"Min. Of Information, Culture, Tourism & Govt. Spokesman",2012,2012,1963,,male
+Q112162986,Francisco Javier Ngomo Mbengono,,"Min. Of Justice, Religious Affairs & Penitentiary Institutions",2012,2012,,,male
+Q112162980,Estanislao Don Malavo,,Min. Of Labor & Social Security,2012,2012,,,male
+Q29122413,Marcelino Owono Edu,,"Min. Of Mines, Industry & Energy",2012,2012,1963,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2012,2012,1952,2019,male
+Q112163007,Nicolas Obama Nchama,,Min. Of National Security,2012,2012,,,male
+Q112162991,Jose Ela Oyana,,"Min. Of Planning, Economic Development & Public Investment",2012,2012,,,male
+Q112163018,Tomas Esono Ava,,Min. Of Public Admin. & Admin. Planning,2012,2012,,,male
+Q112128490,Marcelino Oyono Ntutumu,,Min. Of Public Works & Infrastructures,2012,2012,,,male
+Q112133245,Eulalia Envo Bela,,Min. Of Social Affairs & The Promotion Of Women,2012,2012,,,female
+Q112128491,Mauricio Bokung Asumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2012,2012,,,male
+Q112162969,Braulio Ncogo Abegue,,Min. At The Presidency In Charge Of Civil Cabinet,2012,2012,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. At The Presidency In Charge Of Missions,2012,2012,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. At The Presidency In Charge Of Regional Integration,2012,2012,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With Parliament,2012,2012,,,male
+Q28532112,Purificacion Angue Ondo,,Ambassador To The Us,2012,2012,1945,,female
+Q112133229,Anatolio Ndong Mba,Q112202472,"Permanent Representative To The Un, New York",2012,2012,,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2013,2013,1942,,male
+Q57898,Ignacio Milam Tang,,Prime Min.,2013,2013,1940,,male
+Q112128556,Aniceto Ebiaka Moete,,First Vice Prime Min. In Charge Of Economic & Financial Affairs,2013,2013,,,male
+Q112128517,Demetrio Elo Ndong Nsefumu,,Second Vice Prime Min. In Charge Of Political & Democracy Affairs,2013,2013,,,male
+Q112128523,Salomon Nguema Owono,,Third Vice Prime Min. In Charge Of Social & Human Rights Affairs,2013,2013,,,male
+Q2201806,Vincente Ehate Tomi,,Sec. Gen. Of The Govt. In Charge Of Admin. Coordination,2013,2013,1968,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Min. Of Agriculture & Forests,2013,2013,1968,,male
+Q112133405,Francisca Tatchoup Belope,,"Min. Of Economy, Commerce & Business Development",2013,2013,,,female
+Q112162990,Joaquin Nbana Nchama,,"Min. Of Education, Science & Sports",2013,2013,,,male
+Q112133263,Melchor Esono Edjo,,Min. Of Finance & Budget,2013,2013,,,male
+Q112133227,Anastasio Asumu Mum Munoz,,Min. Of Fishing & The Environment,2013,2013,,,male
+Q58151,Pastor Micha Ondo Bile,,"Min. Of Foreign Affairs, Intl. Cooperation & Francophone Affairs",2013,2013,1952,,male
+Q112128523,Salomon Nguema Owono,,Min. Of Health & Social Welfare,2013,2013,,,male
+Q3177434,Jeronimo Osa Osa Ecoro,,"Min. Of Information, Culture, Tourism & Govt. Spokesman",2013,2013,1963,,male
+Q112162986,Francisco Javier Ngomo Mbengono,,"Min. Of Justice, Religious Affairs & Penitentiary Institutions",2013,2013,,,male
+Q112162980,Estanislao Don Malavo,,Min. Of Labor & Social Security,2013,2013,,,male
+Q29122413,Marcelino Owono Edu,,"Min. Of Mines, Industry & Energy",2013,2013,1963,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2013,2013,1952,2019,male
+Q112163007,Nicolas Obama Nchama,,Min. Of National Security,2013,2013,,,male
+Q112162991,Jose Ela Oyana,,"Min. Of Planning, Economic Development & Public Investment",2013,2013,,,male
+Q112163018,Tomas Esono Ava,,Min. Of Public Admin. & Admin. Planning,2013,2013,,,male
+Q112128490,Marcelino Oyono Ntutumu,,Min. Of Public Works & Infrastructures,2013,2013,,,male
+Q112133245,Eulalia Envo Bela,,Min. Of Social Affairs & The Promotion Of Women,2013,2013,,,female
+Q112128491,Mauricio Bokung Asumu,,"Min. Of Transportation, Technology & Posts & Telecommunications",2013,2013,,,male
+Q112162969,Braulio Ncogo Abegue,,Min. At The Presidency In Charge Of Civil Cabinet,2013,2013,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. At The Presidency In Charge Of Missions,2013,2013,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. At The Presidency In Charge Of Regional Integration,2013,2013,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With Parliament,2013,2013,,,male
+Q28532112,Purificacion Angue Ondo,,Ambassador To The Us,2013,2013,1945,,female
+Q112133229,Anatolio Ndong Mba,Q112202472,"Permanent Representative To The Un, New York",2013,2013,,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2014,2014,1942,,male
+Q57898,Ignacio Milam Tang,,First Vice President In Charge Of Economic & Financial Affairs,2014,2014,1940,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Second Vice President In Charge Of Political & Democracy Affairs,2014,2014,1968,,male
+Q2201806,Vincente Ehate Tomi,,Prime Min. In Charge Of Admin Coordination,2014,2014,1968,,male
+Q112162972,Clemente Engonga Nguema Onguene,,First Dep. Prime Min. & Head Of Political Affairs & Democracy,2014,2014,,,male
+Q112128551,Alfonso Nsue Mokuy,,Second Dep. Prime Min. In Charge Of Social & Human Rights Affairs,2014,2014,,,male
+Q108426370,Miguel Oyono Ndong Mifumu,,Min. Of Agriculture & Forests,2014,2014,,,male
+Q5057941,Celestino Bonifacio Bakale Obiang,,"Min. Of Economy, Trade & Business Promotion",2014,2014,1957,,male
+Q112162998,Maria Del Carmen Ekoro,,Min. Of Education & Science,2014,2014,,,female
+Q29122413,Marcelino Owono Edu,,Min. Of Finance & Budgets,2014,2014,1963,,male
+Q112133772,Crescencio Tamarite Castano,,Min. Of Fisheries & The Environment,2014,2014,,,male
+Q24574730,Agapito Mba Mokuy,,Min. Of Foreign Affairs & Intl. Cooperation,2014,2014,1965,,male
+Q112133279,Tomas Mecheba Fernandez Galilea,,Min. Of Health & Social Welfare,2014,2014,,,male
+Q36908601,Augustin Nse Nfumu,,"Min. Of Information, Press & Radio",2014,2014,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Internal Affairs & Local Corporations,2014,2014,,,male
+Q112162986,Francisco Javier Ngomo Mbengono,,"Min. Of Justice, Religious Affairs & Penitentiary Institutions",2014,2014,,,male
+Q112133249,Heriberto Miko Mbengono,,Min. Of Labor & Social Security,2014,2014,,,male
+Q45042829,Gabriel Mbega Obiang Lima,,"Min. Of Mines, Industry & Energy",2014,2014,1974,,male
+Q63731266,Antonio Mba Nguema,,Min. Of National Defense,2014,2014,1952,2019,male
+Q112163007,Nicolas Obama Nchama,,Min. Of National Security,2014,2014,,,male
+Q112133387,Conrado Okwenve Ndohe,,"Min. Of Planning, Economic Development & Public Investment",2014,2014,,,male
+Q112162994,Juan Nko Mbula,,Min. Of Public Works & Infrastructures,2014,2014,,,male
+Q112133717,Maria Lenor Epam Biribe,,Min. Of Social Affairs & The Promotion Of Women,2014,2014,,,female
+Q112128550,Francisco Mba Olo Bahamonde,,"Min. Of Transportation, Technology, Postal Services & Telecommunications",2014,2014,,,male
+Q112162969,Braulio Ncogo Abegue,,Min. Of State To The Presidency Of The Republic In Charge Of The Civil Cabinet,2014,2014,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State To The Presidency Of The Republic In Charge Of Missions,2014,2014,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of State To The Presidency Of The Republic In Charge Of Regional Integration,2014,2014,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With The Parliament & Legal Affairs,2014,2014,,,male
+,NA,,Ambassador To The Us,2014,2014,,,
+Q112133229,Anatolio Ndong Mba,Q112202472,"Permanent Representative To The Un, New York",2014,2014,,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2015,2015,1942,,male
+Q57898,Ignacio Milam Tang,,First Vice President In Charge Of Economic & Financial Affairs,2015,2015,1940,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Second Vice President In Charge Of Political & Democracy Affairs,2015,2015,1968,,male
+Q2201806,Vincente Ehate Tomi,,Prime Min. In Charge Of Admin Coordination,2015,2015,1968,,male
+Q112162972,Clemente Engonga Nguema Onguene,,First Dep. Prime Min. & Head Of Political Affairs & Democracy,2015,2015,,,male
+Q112162959,Andres Jorge Mbomio Nsem Abua,,Second Dep. Prime Min. In Charge Of Social & Human Rights Affairs,2015,2015,,,male
+Q112128551,Alfonso Nsue Mokuy,,Third Dep. Prime Min. In Charge Of Human Rights,2015,2015,,,male
+Q112128550,Francisco Mba Olo Bahamonde,,Min. Of Agriculture & Forestry,2015,2015,,,male
+Q112162998,Maria Del Carmen Ekoro,,Min. Of Education & Science,2015,2015,,,female
+Q112133244,Eucario Bakale Angue,,"Min. Of Economy, Planning & Public Investment",2015,2015,,,male
+Q112163003,Miguel Engonga Obiang Eyang,,Min. Of Finance & Budgets,2015,2015,,,male
+Q112162980,Estanislao Don Malavo,,Min. Of Fisheries & The Environment,2015,2015,,,male
+Q24574730,Agapito Mba Mokuy,,Min. Of Foreign Affairs & Intl. Cooperation,2015,2015,1965,,male
+Q63442033,Juan Ndong Nguema,,Min. Of Health & Social Welfare,2015,2015,1961,,male
+Q112133750,Eugenio Nze Obiang,,"Min. Of Information, Press & Radio",2015,2015,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Internal Affairs & Local Corporations,2015,2015,,,male
+Q42907516,Evangelina Oyo Ebule,,"Min. Of Justice, Religious Affairs & Penitentiary Institutions",2015,2015,,,female
+Q112133249,Heriberto Miko Mbengono,,Min. Of Labor & Social Security,2015,2015,,,male
+Q45042829,Gabriel Mbega Obiang Lima,,"Min. Of Mines, Industry & Energy",2015,2015,1974,,male
+Q112163007,Nicolas Obama Nchama,,Min. Of National Security,2015,2015,,,male
+Q112162994,Juan Nko Mbula,,Min. Of Public Works & Infrastructures,2015,2015,,,male
+Q112133389,Consuelo Ondo Nzang,,Min. Of Social Affairs & The Promotion Of Women,2015,2015,,,female
+Q112133375,Alfredo Mitogo Mitogo Ada,,Min. Of Trade & Business Promotion,2015,2015,,,male
+Q5057941,Celestino Bonifacio Bakale Obiang,,"Min. Of Transportation, Technology, Postal Services & Telecommunications",2015,2015,1957,,male
+Q63731266,Antonio Mba Nguema,,Min. Of State For National Defense,2015,2015,1952,2019,male
+Q112162969,Braulio Ncogo Abegue,,Min. Of State To The Presidency Of The Republic In Charge Of The Civil Cabinet,2015,2015,,,male
+Q112133279,Tomas Mecheba Fernandez Galilea,,Min. Of State To The Presidency Of The Republic In Charge Of The Fight Against The Prevention Of Hiv/Aids & Sexually Transmitted Diseases,2015,2015,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State To The Presidency Of The Republic In Charge Of Missions,2015,2015,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of State To The Presidency Of The Republic In Charge Of Regional Integration,2015,2015,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With The Parliament & Legal Affairs,2015,2015,,,male
+,NA,,Ambassador To The Us,2015,2015,,,
+Q112133229,Anatolio Ndong Mba,Q112202472,"Permanent Representative To The Un, New York",2015,2015,,,male
+Q57385,Teodoro Obiang Nguema Mbasogo,,President,2016,2016,1942,,male
+Q57898,Ignacio Milam Tang,,First Vice President In Charge Of Economic & Financial Affairs,2016,2016,1940,,male
+Q477201,Teodoro Nguema Obiang Mangu,,Second Vice President In Charge Of Political & Democracy Affairs,2016,2016,1968,,male
+Q2201806,Vincente Ehate Tomi,,Prime Min. In Charge Of Admin Coordination,2016,2016,1968,,male
+Q112162972,Clemente Engonga Nguema Onguene,,First Dep. Prime Min. & Head Of Political Affairs & Democracy,2016,2016,,,male
+Q112162959,Andres Jorge Mbomio Nsem Abua,,Second Dep. Prime Min. In Charge Of Social & Human Rights Affairs,2016,2016,,,male
+Q112128551,Alfonso Nsue Mokuy,,Third Dep. Prime Min. In Charge Of Human Rights,2016,2016,,,male
+Q112128550,Francisco Mba Olo Bahamonde,,Min. Of Agriculture & Forestry,2016,2016,,,male
+Q112162998,Maria Del Carmen Ekoro,,Min. Of Education & Science,2016,2016,,,female
+Q112133244,Eucario Bakale Angue,,"Min. Of Economy, Planning & Public Investment",2016,2016,,,male
+Q112163003,Miguel Engonga Obiang Eyang,,Min. Of Finance & Budgets,2016,2016,,,male
+Q112162980,Estanislao Don Malavo,,Min. Of Fisheries & The Environment,2016,2016,,,male
+Q24574730,Agapito Mba Mokuy,,Min. Of Foreign Affairs & Intl. Cooperation,2016,2016,1965,,male
+Q63442033,Juan Ndong Nguema,,Min. Of Health & Social Welfare,2016,2016,1961,,male
+Q112133750,Eugenio Nze Obiang,,"Min. Of Information, Press & Radio",2016,2016,,,male
+Q112162972,Clemente Engonga Nguema Onguene,,Min. Of Internal Affairs & Local Corporations,2016,2016,,,male
+Q42907516,Evangelina Oyo Ebule,,"Min. Of Justice, Religious Affairs & Penitentiary Institutions",2016,2016,,,female
+Q112133249,Heriberto Miko Mbengono,,Min. Of Labor & Social Security,2016,2016,,,male
+Q45042829,Gabriel Mbega Obiang Lima,,"Min. Of Mines, Industry & Energy",2016,2016,1974,,male
+Q112163007,Nicolas Obama Nchama,,Min. Of National Security,2016,2016,,,male
+Q112162994,Juan Nko Mbula,,Min. Of Public Works & Infrastructures,2016,2016,,,male
+Q112133389,Consuelo Ondo Nzang,,Min. Of Social Affairs & The Promotion Of Women,2016,2016,,,female
+Q112133375,Alfredo Mitogo Mitogo Ada,,Min. Of Trade & Business Promotion,2016,2016,,,male
+Q5057941,Celestino Bonifacio Bakale Obiang,,"Min. Of Transportation, Technology, Postal Services & Telecommunications",2016,2016,1957,,male
+Q63731266,Antonio Mba Nguema,,Min. Of State For National Defense,2016,2016,1952,2019,male
+Q112162969,Braulio Ncogo Abegue,,Min. Of State To The Presidency Of The Republic In Charge Of The Civil Cabinet,2016,2016,,,male
+Q112133279,Tomas Mecheba Fernandez Galilea,,Min. Of State To The Presidency Of The Republic In Charge Of The Fight Against The Prevention Of Hiv/Aids & Sexually Transmitted Diseases,2016,2016,,,male
+Q112162958,Alejandro Evuna Owono Asangono,,Min. Of State To The Presidency Of The Republic In Charge Of Missions,2016,2016,,,male
+Q112162967,Baltasar Engonga Edjo,,Min. Of State To The Presidency Of The Republic In Charge Of Regional Integration,2016,2016,,,male
+Q112128540,Angel Masie Mibuy,,Min. In Charge Of Relations With The Parliament & Legal Affairs,2016,2016,,,male
+Q112195300,Miguel Ntutumu Evuna Andeme,,Ambassador To The Us,2016,2016,,,male
+Q112133229,Anatolio Ndong Mba,Q112202472,"Permanent Representative To The Un, New York",2016,2016,,,male
