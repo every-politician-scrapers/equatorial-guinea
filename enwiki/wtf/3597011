@@ -1,0 +1,168 @@
+{
+  "title": "Armengol Ondo Nguema",
+  "pageID": 3597011,
+  "categories": [
+    "Equatoguinean politicians",
+    "Living people",
+    "1970 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Armengol Ondo Nguema (born 3 February 1970) is the younger brother of Equatoguinean President Teodoro Obiang, as well as the head of the president's Israeli-trained security detail.",
+              "links": [
+                {
+                  "text": "Equatoguinean",
+                  "type": "internal",
+                  "page": "Equatorial Guinea"
+                },
+                {
+                  "text": "Teodoro Obiang",
+                  "type": "internal",
+                  "page": "Teodoro Obiang Nguema Mbasogo"
+                },
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Armengol Ondo Nguema"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was, until recently, the head of national security."
+            },
+            {
+              "text": "He may have been forced to retire from this position due to his business links to Nick du Toit, who was a leading figure in an abortive coup d'etat in 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nick du Toit"
+                },
+                {
+                  "text": "coup d'etat",
+                  "type": "internal",
+                  "page": "coup d'etat"
+                }
+              ]
+            },
+            {
+              "text": "Nguema shares ownership of Triple Options, a security company with du Toit.",
+              "formatting": {
+                "italic": [
+                  "Triple Options"
+                ]
+              }
+            },
+            {
+              "text": "The president's son and likely heir, Teodorín Nguema Obiang, reportedly attacked his uncle after discovering the link.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Teodorín Nguema Obiang"
+                }
+              ]
+            },
+            {
+              "text": "Armengol also owns vast properties in Virginia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Virginia"
+                }
+              ]
+            },
+            {
+              "text": "He is bitterly opposed to the succession of his nephew to the presidency, and presents himself as a stalking horse contender.",
+              "links": [
+                {
+                  "text": "stalking horse",
+                  "type": "internal",
+                  "page": "stalking horse"
+                }
+              ]
+            },
+            {
+              "text": "He has been suspected to be heavily involved in the many human rights abuses that occur in Equatorial Guinea,"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Equatoguinean politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.thestar.co.za/index.php?fSectionId=132&fArticleId=375423",
+          "title": "The Star",
+          "access-date": "2018-06-12",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.derechos.org/nizkor/econ/oil1.html",
+          "title": "Equipo Nizkor - Oil Boom Enriches African Ruler.",
+          "website": "www.derechos.org",
+          "access-date": "2018-06-12",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nytimes.com/2004/03/20/world/where-coup-plots-are-routine-one-that-is-not.html?pagewanted=1",
+          "work": "The New York Times",
+          "first": "Michael",
+          "last": "Wines",
+          "title": "Where Coup Plots Are Routine, One That Is Not",
+          "date": "2004-03-20",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Playboy waits for his African throne",
+          "first": "RW",
+          "last": "Johnson",
+          "date": "3 September 2006",
+          "url": "http://www.timesonline.co.uk/tol/news/world/article626511.ece",
+          "location": "London",
+          "work": "The Times",
+          "archiveurl": "https://web.archive.org/web/20070210082551/http://www.timesonline.co.uk/tol/news/world/article626511.ece",
+          "archivedate": "10 February 2007",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "equatorialguinea-politician-stub"
+        },
+        {
+          "template": "africa-mil-bio-stub"
+        }
+      ]
+    }
+  ]
+}

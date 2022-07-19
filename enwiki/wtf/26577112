@@ -1,0 +1,99 @@
+{
+  "title": "Fausto Abeso Fuma",
+  "pageID": 26577112,
+  "categories": [
+    "Living people",
+    "Ambassadors of Equatorial Guinea to Russia",
+    "Ambassadors of Equatorial Guinea to Ukraine",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fausto Abeso Fuma is an Equatoguinean diplomat and is the current Ambassador of Equatorial Guinea to Russia, presenting his credentials to Russian President Vladimir Putin on 20 April 2005.",
+              "links": [
+                {
+                  "text": "Equatoguinean",
+                  "type": "internal",
+                  "page": "Equatorial Guinea"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ambassador of Equatorial Guinea to Russia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russian President"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vladimir Putin"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fausto Abeso Fuma"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Vladimir_Putin_with_Fausto_Abeso_Fumo.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_with_Fausto_Abeso_Fumo.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_with_Fausto_Abeso_Fumo.jpg",
+          "caption": "Fuma presenting his credentials to Vladimir Putin in April 2005.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2012",
+          "template": "orphan"
+        }
+      ],
+      "references": [
+        {
+          "title": "President Vladimir Putin accepted letters of credence from the new ambassadors of several foreign countries.",
+          "location": "The Kremlin, Moscow",
+          "publisher": "Presidential Press and Information Office",
+          "date": "20 April 2005",
+          "url": "http://www.kremlin.ru/eng/text/news/2005/04/86910.shtml",
+          "accessdate": "2008-10-07",
+          "archive-url": "https://web.archive.org/web/20050828034903/http://www.kremlin.ru/eng/text/news/2005/04/86910.shtml",
+          "archive-date": "28 August 2005",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        },
+        {
+          "template": "equatorialguinea-bio-stub"
+        }
+      ]
+    }
+  ]
+}

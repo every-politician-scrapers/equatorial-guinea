@@ -1,0 +1,200 @@
+{
+  "title": "Mari-Cruz Evuna Andeme",
+  "pageID": 66305810,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Ambassadors of Equatorial Guinea to the United Kingdom",
+    "Equatoguinean women diplomats",
+    "Women ambassadors"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mari-Cruz Evuna Andeme is a diplomat from Equatorial Guinea, who served from 1 July 2012 to July 2018 as the country's ambassador to the United Kingdom,   the ambassadorship was vacant.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Equatorial Guinea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mari-Cruz Evuna Andeme"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Her father Alejandro Evuna Asangono Owono served as the Equatoguinean Minister to the Presidency in charge of Missions, and her brother Miguel Ntutumu Evuna Andeme was appointed as Equatorial Guinea's ambassador to the United States on 23 February 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alejandro Evuna Asangono Owono"
+                },
+                {
+                  "type": "internal",
+                  "page": "Miguel Ntutumu Evuna Andeme"
+                }
+              ]
+            },
+            {
+              "text": "She is a university graduate and speaks four languages."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She joined the diplomatic service in 1996 with a post in the Embassy to the United States."
+            },
+            {
+              "text": "Before her posting to the United Kingdom she was Chargé d'affaires in the Embassy to Belgium with additional responsibility for Denmark, Norway, Luxembourg, the Netherlands, Sweden and the European Union.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chargé d'affaires"
+                }
+              ]
+            },
+            {
+              "text": "From 2008 to 2012 she worked on Equatorial Guinea's Economic Partnership Agreement (EPA) with the European Union, and from 2007 to 2012 she was a member of the Communications department of the national congress of the Democratic Party of Equatorial Guinea (PDG).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Party of Equatorial Guinea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014 she gave a speech to the Conservative Foreign and Commonwealth Council in which she introduced her country, describing it as \"one of the fastest developing countries in Africa and indeed the world\"."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Equatoguinean diplomat",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "December 2020"
+          ],
+          "template": "as of"
+        }
+      ],
+      "references": [
+        {
+          "title": "Embassy of the Republic of Equatorial Guinea",
+          "url": "https://www.rbkc.gov.uk/contactsdirectory/az.aspx?searchletter=e&orgid=5316",
+          "website": "www.rbkc.gov.uk",
+          "publisher": "Royal Borough of Kensington and Chelsea",
+          "access-date": "6 January 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Court Circular: July 16",
+          "url": "https://www.thetimes.co.uk/article/july-16-n2vg90dm2",
+          "access-date": "6 January 2021",
+          "work": "The Times",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "London Diplomatic List (revised December 2020)",
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/943404/London_Diplomatic_List_-_December_2020.odt",
+          "publisher": "Foreign, Commonwealth and Development Office",
+          "access-date": "6 January 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Straehley",
+          "first1": "Steve",
+          "title": "Equatorial Guinea’s Ambassador to the United States: Who Is Miguel Ntutumu Evuna Andeme?",
+          "url": "http://www.allgov.com/news/appointments-and-resignations/equatorial-guineas-ambassador-to-the-united-states-who-is-miguel-ntutumu-evuna-andeme-150516?news=856495",
+          "website": "AllGov",
+          "access-date": "6 January 2021",
+          "date": "16 May 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Recent speakers",
+          "url": "http://www.wabgroup.org/speakers.htm",
+          "website": "www.wabgroup.org",
+          "publisher": "Westminster Africa Business Group",
+          "access-date": "6 January 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "africa-diplomat-stub"
+        },
+        {
+          "template": "equatorialguinea-bio-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Photographs at Alamy showing Evuna Andeme presenting her credentials to the Queen",
+            "links": [
+              {
+                "text": "Photographs at Alamy",
+                "type": "external",
+                "site": "https://www.alamyimages.fr/photos-images/ms-mari-cruz-evuna-andeme.html"
+              },
+              {
+                "text": "the Queen",
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

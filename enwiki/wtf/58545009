@@ -1,0 +1,194 @@
+{
+  "title": "Constancia Mangue",
+  "pageID": 58545009,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "First Ladies of Equatorial Guinea",
+    "Equatoguinean women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Constancia Mangue Nsue Okomo (born 20 August 1952), also known as Constancia Mangue de Obiang, is the First Lady of Equatorial Guinea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "First Lady"
+                },
+                {
+                  "type": "internal",
+                  "page": "Equatorial Guinea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Constancia Mangue Nsue Okomo",
+                  "Constancia Mangue de Obiang"
+                ]
+              }
+            },
+            {
+              "text": "She is the wife of President Teodoro Obiang Nguema Mbasogo and mother of First Vice President Teodoro Nguema Obiang Mangue.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "List of heads of state of Equatorial Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Teodoro Obiang Nguema Mbasogo"
+                },
+                {
+                  "text": "First Vice President",
+                  "type": "internal",
+                  "page": "Vice President of Equatorial Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Teodoro Nguema Obiang Mangue"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1952",
+          "month": "8",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Constancia Mangue"
+          },
+          "image": {
+            "text": "Constancia Mangue de Obiang.jpg"
+          },
+          "office": {
+            "text": "1st First Lady of Equatorial Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Lady of Equatorial Guinea"
+              }
+            ]
+          },
+          "president": {
+            "text": "Teodoro Obiang Nguema Mbasogo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teodoro Obiang Nguema Mbasogo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 August 1979"
+          },
+          "predecesdor": {
+            "text": "(Vacant as Spouse of Colonial Governor)"
+          },
+          "office2": {
+            "text": "First Lady of African Union",
+            "links": [
+              {
+                "text": "First Lady of African Union",
+                "type": "internal",
+                "page": "Chairperson of the African Union"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "31 January 2011"
+          },
+          "term_end2": {
+            "text": "29 January 2012"
+          },
+          "president2": {
+            "text": "Bingu wa Mutharika",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bingu wa Mutharika"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Callista Chimombo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Callista Chimombo"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Chantal Boni Yayi"
+          },
+          "birth_date": {
+            "text": "August 20, 1952"
+          },
+          "birth_place": {
+            "text": "Angong, Spanish Guinea (now Equatorial Guinea)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Angong"
+              },
+              {
+                "type": "internal",
+                "page": "Spanish Guinea"
+              }
+            ]
+          },
+          "children": {
+            "text": "Teodoro Nguema Obiang Mangue, Justo (Hassan) Obiang Mangue, Pastor (Obiang)Obiang Mangue",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teodoro Nguema Obiang Mangue"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author1": "PDGE",
+          "title": "Constancia Mangue de Obiang",
+          "url": "http://www.pdge-guinee-equatoriale.org/pdgeespa/qui_pd.htm",
+          "accessdate": "10 December 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "equatorialguinea-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "title": "Francisco Pascual Obama Asue",
+  "pageID": 50912647,
+  "categories": [
+    "1949 births",
+    "Democratic Party of Equatorial Guinea politicians",
+    "Living people",
+    "Prime Ministers of Equatorial Guinea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Francisco Pascual Eyegue Obama Asue is an Equatoguinean politician who has been Prime Minister of Equatorial Guinea since 23 June 2016.",
+              "links": [
+                {
+                  "text": "Equatoguinean",
+                  "type": "internal",
+                  "page": "Equatorial Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Equatorial Guinea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Francisco Pascual Eyegue Obama Asue"
+                ]
+              }
+            },
+            {
+              "text": "Prior to holding this position, he was the Minister of Health and Social Welfare and also the Minister of Trade."
+            },
+            {
+              "text": "During his time as Minister of Trade he is known to have forbidden the imports of products made in Cameroon - a neighbouring country- because of his ties with Spanish import companies in the country."
+            },
+            {
+              "text": "Since he was appointed Prime Minister in 2015, corruption has increased in the public administration, and most cabinet members recommended by him, including the presidential advisors or Consejeros, are known to be an example of unskilled people holding the top responsibilities and Minister of Sports."
+            },
+            {
+              "text": "He is not related to former U.S. president Barack Obama.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Barack Obama"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Prime Minister of Equatorial Guinea (2016-present)",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Obama",
+            "Asue"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": 1949,
+            "month": 4,
+            "date": 21
+          }
+        },
+        {
+          "date": "December 2019",
+          "template": "fact"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Francisco Pascual Eyegue Obama Asue"
+          },
+          "office": {
+            "text": "Prime Minister of Equatorial Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Equatorial Guinea"
+              }
+            ]
+          },
+          "president": {
+            "text": "Teodoro Obiang Nguema Mbasogo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teodoro Obiang Nguema Mbasogo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 June 2016"
+          },
+          "predecessor": {
+            "text": "Vicente Ehate Tomi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vicente Ehate Tomi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "21 April 1949"
+          },
+          "party": {
+            "text": "Democratic Party",
+            "links": [
+              {
+                "text": "Democratic Party",
+                "type": "internal",
+                "page": "Democratic Party of Equatorial Guinea"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.guineaecuatorialpress.com/noticia.php?id=8031",
+          "title": "Francisco Pascual Obama Asue named Prime Minister",
+          "publisher": "Equatorial Guinea's Press and Information Office",
+          "first": "Obiang",
+          "last": "Nguema Mbasogo",
+          "date": "23 June 2016",
+          "access-date": "15 August 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://equatorialguineaun.org/in-the-news/ambassador-to-uno-congratulates-francisco-pascual-obama-asue",
+          "title": "Ambassador to UNO congratulates Francisco Pascual Obama Asue",
+          "date": "25 June 2016",
+          "access-date": "15 August 2017",
+          "publisher": "Equatorial Guinea's Press and Information Office",
+          "first": "Anatolio",
+          "last": "Ndong Bma",
+          "archive-url": "https://web.archive.org/web/20170816061136/http://equatorialguineaun.org/in-the-news/ambassador-to-uno-congratulates-francisco-pascual-obama-asue",
+          "archive-date": "16 August 2017",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.voanews.com/a/1981359.html",
+          "title": "Francisco Pascual Obama Asue, Equatorial Guinea’s minister of health and social welfare spoke with Clottey",
+          "date": "14 September 2010",
+          "work": "VOA",
+          "access-date": "15 August 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.newstatesman.com/politics/2015/02/letter-equatorial-guinea-forget-human-rights-here-comes-football",
+          "title": "Letter from Equatorial Guinea: forget human rights – here comes the football",
+          "first": "Jonathan",
+          "last": "Wilson",
+          "date": "12 February 2015",
+          "access-date": "15 August 2017",
+          "work": "NewStatesman",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Vicente Ehate Tomi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Equatorial Guinea",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "equatoguineanpms"
+        },
+        {
+          "template": "heads of government of republics"
+        },
+        {
+          "template": "equatorialguinea-politician-stub"
+        }
+      ]
+    }
+  ]
+}
