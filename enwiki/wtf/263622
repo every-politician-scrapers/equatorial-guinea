@@ -115,7 +115,14 @@
         {
           "sentences": [
             {
-              "text": "Obiang heads an authoritarian regime in Equatorial Guinea."
+              "text": "Obiang heads an authoritarian regime in Equatorial Guinea.",
+              "links": [
+                {
+                  "text": "authoritarian regime",
+                  "type": "internal",
+                  "page": "authoritarian regime"
+                }
+              ]
             },
             {
               "text": "He has been widely accused of corruption and abuse of power.",
@@ -1191,7 +1198,7 @@
           "file": "File:Teodoro_Obiang_with_Lula_da_Silva,_1728AC003.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Teodoro_Obiang_with_Lula_da_Silva%2C_1728AC003.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Teodoro_Obiang_with_Lula_da_Silva%2C_1728AC003.jpg",
-          "caption": "Teodoro Obiang Nguema Mbasogo with Luiz Inácio Lula da Silva, President of Brasil, 2006",
+          "caption": "Teodoro Obiang Nguema Mbasogo with Luiz Inácio Lula da Silva, President of Brazil, 2006",
           "links": []
         },
         {
